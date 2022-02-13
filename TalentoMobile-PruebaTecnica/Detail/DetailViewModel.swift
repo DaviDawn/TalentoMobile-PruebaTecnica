@@ -31,12 +31,16 @@ extension DetailViewModel: DetailViewModelDelegate {
         coordinator?.showSpinner()
         dataHandler.getCharacter(id: id) { result in
             self.coordinator?.endSpinner()
-            print(result)
-            self.character = result?.results?.filter({ $0.id == self.id }).first.flatMap({
-                return CharacterModel(id: $0.id, name: $0.name, description: $0.description, thumbnail: $0.thumbnail, comics: $0.comics, series: $0.series)
-            })
-            print(self.character)
+            switch result {
+            case .success(let value):
+                self.character = value?.characters?.filter({ $0.id == self.id }).first.flatMap({
+                    return CharacterModel(id: $0.id, name: $0.name, description: $0.description, thumbnail: $0.thumbnail, comics: $0.comics, series: $0.series)
+                })
 //            self.output?.configure(thumbnail: <#T##Thumbnail#>, title: <#T##String#>, description: <#T##String#>)
+            case .failure:
+                print("Error")
+            }
+            
         }
     }
 }

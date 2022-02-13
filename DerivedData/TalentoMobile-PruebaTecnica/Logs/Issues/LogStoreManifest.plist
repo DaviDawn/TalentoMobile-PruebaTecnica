@@ -34,7 +34,7 @@
 			<key>uniqueIdentifier</key>
 			<string>155C8971-7798-41A2-968B-16907A65E41E</string>
 		</dict>
-		<key>3A0DA92A-5220-489E-8ABB-A1C3187B5A4E</key>
+		<key>4B0461B7-372E-4CE2-9FCE-70DAF49A1205</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -43,7 +43,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>3A0DA92A-5220-489E-8ABB-A1C3187B5A4E.xcactivitylog</string>
+			<string>4B0461B7-372E-4CE2-9FCE-70DAF49A1205.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -54,13 +54,13 @@
 			<key>signature</key>
 			<string>TalentoMobile-PruebaTecnica-gbboorvllhctvubxxlizeqabhoso</string>
 			<key>timeStartedRecording</key>
-			<real>666452320.05287695</real>
+			<real>666454447.59070694</real>
 			<key>timeStoppedRecording</key>
-			<real>666452322.38336897</real>
+			<real>666454450.75109899</real>
 			<key>title</key>
 			<string>Build target TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>3A0DA92A-5220-489E-8ABB-A1C3187B5A4E</string>
+			<string>4B0461B7-372E-4CE2-9FCE-70DAF49A1205</string>
 		</dict>
 		<key>D26ADD79-41C2-4F02-AB47-76519953DBB1</key>
 		<dict>

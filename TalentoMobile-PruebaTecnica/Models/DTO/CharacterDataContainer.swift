@@ -9,5 +9,10 @@ import Foundation
 
 struct CharacterDataContainer: Decodable {
     let offset, limit, total, count: Int?
-    let results: [Character]?
+    let characters: [Character]?
+    
+    private enum CodingKeys: String, CodingKey {
+        case characters = "results"
+        case offset, limit, total, count
+    }
 }

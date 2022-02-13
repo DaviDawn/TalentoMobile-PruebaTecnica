@@ -6,12 +6,13 @@
 //
 
 import Foundation
+import Alamofire
 
 class DetailDataHandler: DataHandler {
-    func getCharacter(id: Int, completion: @escaping (CharacterDataContainer?) -> Void) {
+    func getCharacter(id: Int, completion: @escaping (Result<CharacterDataContainer?, AFError>) -> Void) {
         let dataHandler = DataHandler()
         
-        dataHandler.load(path: "\(APIURLS.character.rawValue)\(id)?") { char in
+        dataHandler.load(path: "\(APIURLS.characters.rawValue)\(id)?") { char in
             completion(char)
         }
     }

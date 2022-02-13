@@ -39,7 +39,7 @@ class ListViewModel: ListViewModelDelegate {
     }
     
     func didTapCell(_ index: IndexPath) {
-        guard let id = characterDataContainer?.results?[index.row].id else { return }
+        guard let id = characterDataContainer?.characters?[index.row].id else { return }
         coordinator?.goToDetail(id: id)
     }
     
@@ -48,13 +48,18 @@ class ListViewModel: ListViewModelDelegate {
         
         dataHandler.getList() { result in
             self.coordinator?.endSpinner()
-            self.characterDataContainer = result
-            self.output?.updateView()
+            switch result {
+            case .success(let characters):
+                self.characterDataContainer = characters
+                self.output?.updateView()
+            case .failure:
+                print("Error")
+            }
         }
     }
     
     func getCharacterModel(from index: IndexPath) -> CharacterModel {
-        guard let characters = self.characterDataContainer?.results else { return CharacterModel() }
+        guard let characters = self.characterDataContainer?.characters else { return CharacterModel() }
         let charactersModel = characters.compactMap() {
             return CharacterModel(id: $0.id, name: $0.name, description: $0.description, thumbnail: $0.thumbnail, comics: $0.comics, series: $0.series)
         }

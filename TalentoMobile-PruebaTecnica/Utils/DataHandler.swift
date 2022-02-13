@@ -14,7 +14,7 @@ class DataHandler {
     private let publicKey = "aaf319230587c79287b153bdca58c1e1"
     private let privateKey = "0e7dd492cb58b5747ae45edbd9fa6a266ccb0d4f"
     
-    func load(path: String, completion: @escaping (CharacterDataContainer?) -> Void) {
+    func load(path: String, completion: @escaping (Result<CharacterDataContainer?, AFError>) -> Void) {
         let url = baseURL + path + cifrateKeys()
         
         AF.request(url).response { response in
@@ -22,11 +22,11 @@ class DataHandler {
             guard let data = response.data,
                   let marvelInfo = try? decode.decode(CharacterDataWrapper.self, from: data),
                   marvelInfo.code == 200 else {
-                      // inform error
-                      completion(nil)
+                      print("Error: \(response.error)")
+                      completion(.failure(response.error!))
                       return
                   }
-            completion(marvelInfo.data)
+            completion(.success(marvelInfo.data))
         }
     }
     

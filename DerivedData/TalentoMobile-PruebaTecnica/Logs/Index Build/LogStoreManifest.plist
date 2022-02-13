@@ -414,6 +414,74 @@
 			<key>uniqueIdentifier</key>
 			<string>03C4B434-8B55-4549-9008-066AB1E6603F</string>
 		</dict>
+		<key>04148259-7C99-44B1-977B-C7C64C96D965</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>04148259-7C99-44B1-977B-C7C64C96D965.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452799.26675999</real>
+			<key>timeStoppedRecording</key>
+			<real>666452799.46596801</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>04148259-7C99-44B1-977B-C7C64C96D965</string>
+		</dict>
+		<key>0446F1D8-CFA3-442A-B0EE-0207FE5752E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0446F1D8-CFA3-442A-B0EE-0207FE5752E8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453037.60307801</real>
+			<key>timeStoppedRecording</key>
+			<real>666453037.76091599</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0446F1D8-CFA3-442A-B0EE-0207FE5752E8</string>
+		</dict>
 		<key>04E74556-8370-4EEF-8D08-4E4F068ABB4E</key>
 		<dict>
 			<key>className</key>
@@ -754,6 +822,40 @@
 			<key>uniqueIdentifier</key>
 			<string>08A1973E-F71A-414F-AC93-1D74FCE5869A</string>
 		</dict>
+		<key>08BB42B0-494B-4470-8518-7D05A9EA4D6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>08BB42B0-494B-4470-8518-7D05A9EA4D6E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452676.94217205</real>
+			<key>timeStoppedRecording</key>
+			<real>666452677.28144896</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>08BB42B0-494B-4470-8518-7D05A9EA4D6E</string>
+		</dict>
 		<key>0A8EE6BA-F0EA-47BA-A9ED-24FEB3EF5FA6</key>
 		<dict>
 			<key>className</key>
@@ -855,6 +957,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>0C3EB70C-DE8D-4EE5-9C52-63C56CAF65FB</string>
+		</dict>
+		<key>0C470186-5FD1-4FE4-9792-4342EFD62386</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0C470186-5FD1-4FE4-9792-4342EFD62386.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454447.54806197</real>
+			<key>timeStoppedRecording</key>
+			<real>666454447.72028399</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0C470186-5FD1-4FE4-9792-4342EFD62386</string>
 		</dict>
 		<key>0C93D8F1-0753-4517-B065-66E98C67A39D</key>
 		<dict>
@@ -1536,6 +1672,40 @@
 			<key>uniqueIdentifier</key>
 			<string>16C2AC83-A194-4A90-B80E-F0DDAE539600</string>
 		</dict>
+		<key>16D72087-82B1-4BFD-A261-551DAE0C2581</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>16D72087-82B1-4BFD-A261-551DAE0C2581.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453920.99644005</real>
+			<key>timeStoppedRecording</key>
+			<real>666453921.16331303</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>16D72087-82B1-4BFD-A261-551DAE0C2581</string>
+		</dict>
 		<key>17307846-50E9-40D8-8284-4C27D926EABA</key>
 		<dict>
 			<key>className</key>
@@ -1569,6 +1739,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>17307846-50E9-40D8-8284-4C27D926EABA</string>
+		</dict>
+		<key>17409B5E-5AC3-456D-820E-9F6744866EC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>17409B5E-5AC3-456D-820E-9F6744866EC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453517.45983195</real>
+			<key>timeStoppedRecording</key>
+			<real>666453517.64290595</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>17409B5E-5AC3-456D-820E-9F6744866EC0</string>
 		</dict>
 		<key>175F4631-2FA4-4321-B25D-160613810FBC</key>
 		<dict>
@@ -1808,6 +2012,40 @@
 			<key>uniqueIdentifier</key>
 			<string>1BB7F128-3EE6-462C-BC5A-3A855215153D</string>
 		</dict>
+		<key>1CC891A0-8BFB-4839-854D-304B43D48146</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1CC891A0-8BFB-4839-854D-304B43D48146.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454243.21342301</real>
+			<key>timeStoppedRecording</key>
+			<real>666454243.42641401</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1CC891A0-8BFB-4839-854D-304B43D48146</string>
+		</dict>
 		<key>1DFBCC5F-C9DF-4811-9B52-2557E789E73F</key>
 		<dict>
 			<key>className</key>
@@ -1909,6 +2147,74 @@
 			<string>TalentoMobile-PruebaTecnica Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>1F068642-BFCD-49BF-B791-92FD2748F1AB</string>
+		</dict>
+		<key>1F8F1506-7E92-43F4-B23D-FFEC24FFA829</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1F8F1506-7E92-43F4-B23D-FFEC24FFA829.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452805.14517105</real>
+			<key>timeStoppedRecording</key>
+			<real>666452805.30976903</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1F8F1506-7E92-43F4-B23D-FFEC24FFA829</string>
+		</dict>
+		<key>1FDF1987-D5F6-43A5-999F-1FD426B33CD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1FDF1987-D5F6-43A5-999F-1FD426B33CD6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453893.17279696</real>
+			<key>timeStoppedRecording</key>
+			<real>666453893.25630796</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1FDF1987-D5F6-43A5-999F-1FD426B33CD6</string>
 		</dict>
 		<key>20247BD9-C828-42E4-A874-6DF612AC58D5</key>
 		<dict>
@@ -2045,6 +2351,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>20F31153-0F1B-4C4D-AEFE-1CDFB9F29227</string>
+		</dict>
+		<key>213D681F-79F0-434A-AB1D-76F4B1E5E0F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>213D681F-79F0-434A-AB1D-76F4B1E5E0F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454005.01600099</real>
+			<key>timeStoppedRecording</key>
+			<real>666454005.12772501</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>213D681F-79F0-434A-AB1D-76F4B1E5E0F7</string>
 		</dict>
 		<key>225BECE3-9221-4312-BCBC-2A59F8ACBC27</key>
 		<dict>
@@ -2215,6 +2555,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>24508497-D107-4EB5-A67A-3444DCD0EC0A</string>
+		</dict>
+		<key>25945F11-8AE3-4737-95F7-DDBF0769E76B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>25945F11-8AE3-4737-95F7-DDBF0769E76B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454025.57923102</real>
+			<key>timeStoppedRecording</key>
+			<real>666454025.78424096</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>25945F11-8AE3-4737-95F7-DDBF0769E76B</string>
 		</dict>
 		<key>25EB1EBF-420D-40EC-BEE2-9DF2AD1F7978</key>
 		<dict>
@@ -2760,6 +3134,40 @@
 			<key>uniqueIdentifier</key>
 			<string>2AD1917B-2F9F-419B-BFF0-44D1BF505165</string>
 		</dict>
+		<key>2BA8CB02-4753-4AE5-A374-BEE124D3510F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2BA8CB02-4753-4AE5-A374-BEE124D3510F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453064.94701505</real>
+			<key>timeStoppedRecording</key>
+			<real>666453065.06266904</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2BA8CB02-4753-4AE5-A374-BEE124D3510F</string>
+		</dict>
 		<key>2CA18626-1084-4A06-9EE6-63D2C09C61CE</key>
 		<dict>
 			<key>className</key>
@@ -3270,6 +3678,40 @@
 			<key>uniqueIdentifier</key>
 			<string>325BDCA6-1606-4603-B11D-9F5CEF8F0CEC</string>
 		</dict>
+		<key>3308CAE9-43D3-4821-9AD1-F48212543B31</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3308CAE9-43D3-4821-9AD1-F48212543B31.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453758.45749903</real>
+			<key>timeStoppedRecording</key>
+			<real>666453758.532336</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3308CAE9-43D3-4821-9AD1-F48212543B31</string>
+		</dict>
 		<key>3372F8C5-75FB-48BB-81B4-A8E12081CB39</key>
 		<dict>
 			<key>className</key>
@@ -3542,6 +3984,40 @@
 			<key>uniqueIdentifier</key>
 			<string>37C81D92-9EA9-40D0-9021-44AB35D22AF2</string>
 		</dict>
+		<key>383566B1-DC28-43B9-9454-37303AEAF06C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>383566B1-DC28-43B9-9454-37303AEAF06C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454359.75963795</real>
+			<key>timeStoppedRecording</key>
+			<real>666454359.94642794</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>383566B1-DC28-43B9-9454-37303AEAF06C</string>
+		</dict>
 		<key>386131A7-B0E3-4526-A934-D4C129C0AB47</key>
 		<dict>
 			<key>className</key>
@@ -3575,6 +4051,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>386131A7-B0E3-4526-A934-D4C129C0AB47</string>
+		</dict>
+		<key>38FA5A7C-9E5F-4D16-A036-608CAF1A0EF3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>38FA5A7C-9E5F-4D16-A036-608CAF1A0EF3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454311.96421897</real>
+			<key>timeStoppedRecording</key>
+			<real>666454312.13573599</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>38FA5A7C-9E5F-4D16-A036-608CAF1A0EF3</string>
 		</dict>
 		<key>3980B13C-F633-485F-9096-647E928E48CA</key>
 		<dict>
@@ -3643,6 +4153,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>39BA3C3A-E161-4EA0-918F-6F170DA455D2</string>
+		</dict>
+		<key>3A102542-65A0-445C-A407-A795FB5CD935</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3A102542-65A0-445C-A407-A795FB5CD935.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452872.23897696</real>
+			<key>timeStoppedRecording</key>
+			<real>666452872.37687695</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3A102542-65A0-445C-A407-A795FB5CD935</string>
 		</dict>
 		<key>3A420B86-E2A1-4E4A-B340-B321AF918AFE</key>
 		<dict>
@@ -3745,6 +4289,74 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>3ABA7A32-0A82-46FC-973B-4AA90CB877A4</string>
+		</dict>
+		<key>3B71C77D-4E59-44DF-8C4B-26CD53620F62</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3B71C77D-4E59-44DF-8C4B-26CD53620F62.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454139.37700105</real>
+			<key>timeStoppedRecording</key>
+			<real>666454139.44819796</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3B71C77D-4E59-44DF-8C4B-26CD53620F62</string>
+		</dict>
+		<key>3B881F82-FEE5-4ED4-B492-E4EF4AF05EE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3B881F82-FEE5-4ED4-B492-E4EF4AF05EE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454214.53331602</real>
+			<key>timeStoppedRecording</key>
+			<real>666454214.585693</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3B881F82-FEE5-4ED4-B492-E4EF4AF05EE7</string>
 		</dict>
 		<key>3BA50F04-755A-46E0-82D9-F61672A900B8</key>
 		<dict>
@@ -3915,6 +4527,74 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>3D285A39-C4EE-41E6-9D01-70F4C7233D8C</string>
+		</dict>
+		<key>3DC5F209-BBBC-4C44-8901-ACA4A329EC6C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3DC5F209-BBBC-4C44-8901-ACA4A329EC6C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453573.80518305</real>
+			<key>timeStoppedRecording</key>
+			<real>666453573.91000295</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3DC5F209-BBBC-4C44-8901-ACA4A329EC6C</string>
+		</dict>
+		<key>3EC7EEB0-F624-40B0-9273-24DFA7FD923C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3EC7EEB0-F624-40B0-9273-24DFA7FD923C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454009.96839094</real>
+			<key>timeStoppedRecording</key>
+			<real>666454010.03583896</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3EC7EEB0-F624-40B0-9273-24DFA7FD923C</string>
 		</dict>
 		<key>407E6AF4-DC73-4CCD-9330-1FE526331862</key>
 		<dict>
@@ -4154,6 +4834,40 @@
 			<key>uniqueIdentifier</key>
 			<string>439DDAC8-D8E2-4CB6-B9EC-F021E2957C3B</string>
 		</dict>
+		<key>43ED0CB0-CF31-4904-BADC-6D854B49C317</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>43ED0CB0-CF31-4904-BADC-6D854B49C317.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454108.46155596</real>
+			<key>timeStoppedRecording</key>
+			<real>666454108.56702101</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>43ED0CB0-CF31-4904-BADC-6D854B49C317</string>
+		</dict>
 		<key>44785A44-D65C-40EB-99C5-03A2380BB7A0</key>
 		<dict>
 			<key>className</key>
@@ -4187,6 +4901,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>44785A44-D65C-40EB-99C5-03A2380BB7A0</string>
+		</dict>
+		<key>44A10212-EBFA-4CB0-8B5F-1466EC2EE57A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>44A10212-EBFA-4CB0-8B5F-1466EC2EE57A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453654.32652199</real>
+			<key>timeStoppedRecording</key>
+			<real>666453654.41848803</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>44A10212-EBFA-4CB0-8B5F-1466EC2EE57A</string>
 		</dict>
 		<key>4507E401-2A3F-479A-98FF-EB9DF26F6D09</key>
 		<dict>
@@ -5344,6 +6092,40 @@
 			<key>uniqueIdentifier</key>
 			<string>54251D3B-5FCA-400E-9603-42AA014B293A</string>
 		</dict>
+		<key>54D74D57-4C76-4258-8E3D-B7818A8EDE16</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>54D74D57-4C76-4258-8E3D-B7818A8EDE16.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453054.60570896</real>
+			<key>timeStoppedRecording</key>
+			<real>666453054.89951599</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>54D74D57-4C76-4258-8E3D-B7818A8EDE16</string>
+		</dict>
 		<key>54E49062-760A-415E-BB9C-C36408CA64CC</key>
 		<dict>
 			<key>className</key>
@@ -5479,6 +6261,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>5597A2CA-BCF9-4A31-9191-7400588129B4</string>
+		</dict>
+		<key>55BDED01-C4BF-4A75-A241-F75712F9D1AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>55BDED01-C4BF-4A75-A241-F75712F9D1AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453679.57779205</real>
+			<key>timeStoppedRecording</key>
+			<real>666453679.81758797</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>55BDED01-C4BF-4A75-A241-F75712F9D1AA</string>
 		</dict>
 		<key>55D0172E-9028-4CE8-B0D1-EE92D124E583</key>
 		<dict>
@@ -5616,6 +6432,40 @@
 			<key>uniqueIdentifier</key>
 			<string>56CFCDA4-6DD7-469B-93F2-26A8EDBCA5E8</string>
 		</dict>
+		<key>570166FE-D9FE-4C9D-A0F2-71857D9A67BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>570166FE-D9FE-4C9D-A0F2-71857D9A67BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453975.35700905</real>
+			<key>timeStoppedRecording</key>
+			<real>666453975.47301304</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>570166FE-D9FE-4C9D-A0F2-71857D9A67BC</string>
+		</dict>
 		<key>57CD896F-F3F9-460D-BBA5-39F0B6BA5370</key>
 		<dict>
 			<key>className</key>
@@ -5684,6 +6534,40 @@
 			<key>uniqueIdentifier</key>
 			<string>585E4994-B78C-45FF-A05F-5A93D5EAE59F</string>
 		</dict>
+		<key>585EE2FE-D17A-4A22-A61B-30DCF5416141</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>585EE2FE-D17A-4A22-A61B-30DCF5416141.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453644.44563603</real>
+			<key>timeStoppedRecording</key>
+			<real>666453644.59889102</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>585EE2FE-D17A-4A22-A61B-30DCF5416141</string>
+		</dict>
 		<key>58AD2C54-6797-42B6-AA20-D5E766662459</key>
 		<dict>
 			<key>className</key>
@@ -5718,6 +6602,40 @@
 			<key>uniqueIdentifier</key>
 			<string>58AD2C54-6797-42B6-AA20-D5E766662459</string>
 		</dict>
+		<key>58D164A5-AC96-48B3-9323-75B009A4267A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>58D164A5-AC96-48B3-9323-75B009A4267A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453279.371387</real>
+			<key>timeStoppedRecording</key>
+			<real>666453279.482862</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>58D164A5-AC96-48B3-9323-75B009A4267A</string>
+		</dict>
 		<key>594CFFC9-4282-460B-B0DC-D7636CFF5DE9</key>
 		<dict>
 			<key>className</key>
@@ -5751,6 +6669,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>594CFFC9-4282-460B-B0DC-D7636CFF5DE9</string>
+		</dict>
+		<key>59B170B4-1D9E-43AF-8D9C-C0F1B31B4DFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>59B170B4-1D9E-43AF-8D9C-C0F1B31B4DFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453379.77234805</real>
+			<key>timeStoppedRecording</key>
+			<real>666453379.91331601</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>59B170B4-1D9E-43AF-8D9C-C0F1B31B4DFD</string>
 		</dict>
 		<key>59CB11BC-9498-45BA-AD06-8897E5BC81FA</key>
 		<dict>
@@ -6058,6 +7010,40 @@
 			<key>uniqueIdentifier</key>
 			<string>5F519C89-DD48-4633-808B-63E57003FAE0</string>
 		</dict>
+		<key>5FA0B44C-CFDF-4544-94B5-46ED8E0EAAA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5FA0B44C-CFDF-4544-94B5-46ED8E0EAAA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453335.74256396</real>
+			<key>timeStoppedRecording</key>
+			<real>666453335.96019697</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5FA0B44C-CFDF-4544-94B5-46ED8E0EAAA0</string>
+		</dict>
 		<key>5FC9BE51-C4EB-4739-B1C8-7D95BCA25827</key>
 		<dict>
 			<key>className</key>
@@ -6091,6 +7077,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>5FC9BE51-C4EB-4739-B1C8-7D95BCA25827</string>
+		</dict>
+		<key>610EA432-7623-4822-88F2-D7824C87A798</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>610EA432-7623-4822-88F2-D7824C87A798.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Alamofire Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453462.61665297</real>
+			<key>timeStoppedRecording</key>
+			<real>666453462.84335005</real>
+			<key>title</key>
+			<string>Alamofire Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>610EA432-7623-4822-88F2-D7824C87A798</string>
 		</dict>
 		<key>61901F3E-ECB4-42D4-BE53-B38A7CF87281</key>
 		<dict>
@@ -6568,6 +7588,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6779FB3F-4655-4BFD-BFED-BA70750C1072</string>
 		</dict>
+		<key>67AAFD21-3C90-4DED-A866-98688A67BCA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>67AAFD21-3C90-4DED-A866-98688A67BCA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453086.63645196</real>
+			<key>timeStoppedRecording</key>
+			<real>666453086.71710706</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>67AAFD21-3C90-4DED-A866-98688A67BCA2</string>
+		</dict>
 		<key>67CDEC41-3CF9-422F-ADD8-A53A8023D39A</key>
 		<dict>
 			<key>className</key>
@@ -6669,6 +7723,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>681478AD-83EA-48ED-B366-909EC154D02D</string>
+		</dict>
+		<key>68E44D6F-8173-4F34-9B7B-A82CCE4A0212</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>68E44D6F-8173-4F34-9B7B-A82CCE4A0212.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452966.81273401</real>
+			<key>timeStoppedRecording</key>
+			<real>666452966.91444898</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>68E44D6F-8173-4F34-9B7B-A82CCE4A0212</string>
 		</dict>
 		<key>68FE8803-1F8F-4AFB-9992-15E8F8DA92C5</key>
 		<dict>
@@ -6874,6 +7962,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6C0E7D38-4415-432B-B1EC-B51B598BB02E</string>
 		</dict>
+		<key>6C4FA9A8-D42A-4880-B627-DAC34606330B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6C4FA9A8-D42A-4880-B627-DAC34606330B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454393.47855604</real>
+			<key>timeStoppedRecording</key>
+			<real>666454393.58313704</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6C4FA9A8-D42A-4880-B627-DAC34606330B</string>
+		</dict>
 		<key>6C82AF0E-F1AE-4F23-905E-2A9732F7E9F5</key>
 		<dict>
 			<key>className</key>
@@ -7044,6 +8166,40 @@
 			<key>uniqueIdentifier</key>
 			<string>6EC940CE-E769-40D0-BBAF-3C9078F9F28D</string>
 		</dict>
+		<key>6F1F5436-2DC4-4CD6-A7F8-A1B4D5AC313D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6F1F5436-2DC4-4CD6-A7F8-A1B4D5AC313D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453848.51689005</real>
+			<key>timeStoppedRecording</key>
+			<real>666453848.67244804</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6F1F5436-2DC4-4CD6-A7F8-A1B4D5AC313D</string>
+		</dict>
 		<key>6F20B4F9-DCB7-4FD0-9AB6-E4B607DE0CEE</key>
 		<dict>
 			<key>className</key>
@@ -7145,6 +8301,74 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>7075A232-4F53-4CFF-8838-B72D0CA885F4</string>
+		</dict>
+		<key>71527F41-CC25-40DC-90A7-BA0553F2ED49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>71527F41-CC25-40DC-90A7-BA0553F2ED49.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453150.565606</real>
+			<key>timeStoppedRecording</key>
+			<real>666453150.63088202</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>71527F41-CC25-40DC-90A7-BA0553F2ED49</string>
+		</dict>
+		<key>71C8B102-35CC-476E-8423-0DF3F091FFF9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>71C8B102-35CC-476E-8423-0DF3F091FFF9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454059.01149201</real>
+			<key>timeStoppedRecording</key>
+			<real>666454059.13952899</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>71C8B102-35CC-476E-8423-0DF3F091FFF9</string>
 		</dict>
 		<key>72323097-7B49-4C5C-9B0E-0EC14AD094EE</key>
 		<dict>
@@ -7758,6 +8982,142 @@
 			<key>uniqueIdentifier</key>
 			<string>79D0577F-4098-41F9-BA08-7D33715733F7</string>
 		</dict>
+		<key>7A1059FA-2005-444C-8F37-1B0420190845</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7A1059FA-2005-444C-8F37-1B0420190845.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454593.06889999</real>
+			<key>timeStoppedRecording</key>
+			<real>666454593.37800395</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7A1059FA-2005-444C-8F37-1B0420190845</string>
+		</dict>
+		<key>7A7FE704-F787-4FEF-AA09-71AC804A9AE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7A7FE704-F787-4FEF-AA09-71AC804A9AE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454140.11703396</real>
+			<key>timeStoppedRecording</key>
+			<real>666454140.23582602</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7A7FE704-F787-4FEF-AA09-71AC804A9AE5</string>
+		</dict>
+		<key>7B51B141-5D10-48A2-A5F2-6909CE0A13BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7B51B141-5D10-48A2-A5F2-6909CE0A13BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>666453915.36395001</real>
+			<key>timeStoppedRecording</key>
+			<real>666453921.02546406</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>7B51B141-5D10-48A2-A5F2-6909CE0A13BB</string>
+		</dict>
+		<key>7C15E297-D6F1-44C9-B410-1C3D88D35661</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7C15E297-D6F1-44C9-B410-1C3D88D35661.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453182.78114295</real>
+			<key>timeStoppedRecording</key>
+			<real>666453182.90697002</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7C15E297-D6F1-44C9-B410-1C3D88D35661</string>
+		</dict>
 		<key>7C362E86-B43A-438B-B070-6F8590DD8FAB</key>
 		<dict>
 			<key>className</key>
@@ -7791,6 +9151,74 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>7C362E86-B43A-438B-B070-6F8590DD8FAB</string>
+		</dict>
+		<key>7CBD62B3-3967-4749-A8C4-0D997859A856</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7CBD62B3-3967-4749-A8C4-0D997859A856.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454215.33652902</real>
+			<key>timeStoppedRecording</key>
+			<real>666454215.44185305</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7CBD62B3-3967-4749-A8C4-0D997859A856</string>
+		</dict>
+		<key>7D25C39D-1CA9-4DDB-80BB-8D30ACE61404</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7D25C39D-1CA9-4DDB-80BB-8D30ACE61404.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453027.03684604</real>
+			<key>timeStoppedRecording</key>
+			<real>666453027.11382401</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7D25C39D-1CA9-4DDB-80BB-8D30ACE61404</string>
 		</dict>
 		<key>7D3E3302-DEF9-47FE-A1E9-28F11290F82A</key>
 		<dict>
@@ -8064,6 +9492,40 @@
 			<key>uniqueIdentifier</key>
 			<string>8112998E-4342-4505-9221-D91842E6BCF8</string>
 		</dict>
+		<key>824B0D24-A22F-4BEC-8A90-78C951E895E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>824B0D24-A22F-4BEC-8A90-78C951E895E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453885.646837</real>
+			<key>timeStoppedRecording</key>
+			<real>666453885.87136698</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>824B0D24-A22F-4BEC-8A90-78C951E895E3</string>
+		</dict>
 		<key>82824D88-1F63-4892-A4C9-8B86B0ED4C1B</key>
 		<dict>
 			<key>className</key>
@@ -8200,6 +9662,40 @@
 			<key>uniqueIdentifier</key>
 			<string>83FB98A9-CE50-465A-9C4A-B2F9F1FC68E0</string>
 		</dict>
+		<key>84C1A101-A23B-40A8-9BB1-8FC77CF73DB1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>84C1A101-A23B-40A8-9BB1-8FC77CF73DB1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453431.71833599</real>
+			<key>timeStoppedRecording</key>
+			<real>666453431.79118204</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>84C1A101-A23B-40A8-9BB1-8FC77CF73DB1</string>
+		</dict>
 		<key>852D0454-9CDE-4C3F-90EE-737B2BBB955E</key>
 		<dict>
 			<key>className</key>
@@ -8233,6 +9729,40 @@
 			<string>Workspace Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>852D0454-9CDE-4C3F-90EE-737B2BBB955E</string>
+		</dict>
+		<key>854A35EF-8413-427D-B89A-D0F25FC58CB6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>854A35EF-8413-427D-B89A-D0F25FC58CB6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452542.14761496</real>
+			<key>timeStoppedRecording</key>
+			<real>666452542.36222994</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>854A35EF-8413-427D-B89A-D0F25FC58CB6</string>
 		</dict>
 		<key>85A6EAFB-7C31-45C9-AEE8-0B1839D9E4F2</key>
 		<dict>
@@ -8880,6 +10410,40 @@
 			<key>uniqueIdentifier</key>
 			<string>8C729B78-73A0-45DE-991B-9C6B70E82735</string>
 		</dict>
+		<key>8CB8BB42-C2F4-4E44-B5BD-3426A59C5D95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8CB8BB42-C2F4-4E44-B5BD-3426A59C5D95.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454355.35636604</real>
+			<key>timeStoppedRecording</key>
+			<real>666454355.87124395</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8CB8BB42-C2F4-4E44-B5BD-3426A59C5D95</string>
+		</dict>
 		<key>8CCEE0B2-A626-4399-8834-02FF7C99AE90</key>
 		<dict>
 			<key>className</key>
@@ -9254,6 +10818,74 @@
 			<key>uniqueIdentifier</key>
 			<string>91172ED2-9C11-4F5B-B651-A2CF59375E9E</string>
 		</dict>
+		<key>9190CF0C-EEA6-4E01-8F24-6DABF97DED91</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9190CF0C-EEA6-4E01-8F24-6DABF97DED91.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454423.13031006</real>
+			<key>timeStoppedRecording</key>
+			<real>666454423.58656204</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9190CF0C-EEA6-4E01-8F24-6DABF97DED91</string>
+		</dict>
+		<key>91C23735-3CB6-423B-B1E6-5DF9CFC23D02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>91C23735-3CB6-423B-B1E6-5DF9CFC23D02.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452581.95098603</real>
+			<key>timeStoppedRecording</key>
+			<real>666452582.024019</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>91C23735-3CB6-423B-B1E6-5DF9CFC23D02</string>
+		</dict>
 		<key>920E65F0-964C-4AE3-8C5C-EE99D8869AF4</key>
 		<dict>
 			<key>className</key>
@@ -9321,6 +10953,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>925CB6B7-9A4B-4A7D-9A86-718873BC6CEF</string>
+		</dict>
+		<key>92E5E083-0D5C-4464-B18C-362F138945ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>92E5E083-0D5C-4464-B18C-362F138945ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453841.75933802</real>
+			<key>timeStoppedRecording</key>
+			<real>666453841.82308304</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>92E5E083-0D5C-4464-B18C-362F138945ED</string>
 		</dict>
 		<key>9318146D-1280-4662-82CF-EE1157AF6B98</key>
 		<dict>
@@ -9458,6 +11124,40 @@
 			<key>uniqueIdentifier</key>
 			<string>9463EFEF-1CB0-41DC-B983-66DE74580708</string>
 		</dict>
+		<key>9516D35A-7A27-4D77-B9DB-2F99611B6D0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9516D35A-7A27-4D77-B9DB-2F99611B6D0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>666452492.23319697</real>
+			<key>timeStoppedRecording</key>
+			<real>666452521.16895998</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>9516D35A-7A27-4D77-B9DB-2F99611B6D0C</string>
+		</dict>
 		<key>95397475-AA8C-464A-BB9D-DF91FFC454C1</key>
 		<dict>
 			<key>className</key>
@@ -9559,6 +11259,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>9669A20B-F10F-40FD-BE8D-C1C0F7A38F3D</string>
+		</dict>
+		<key>967487BF-5F65-4293-955C-0333258DF70A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>967487BF-5F65-4293-955C-0333258DF70A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452547.83522904</real>
+			<key>timeStoppedRecording</key>
+			<real>666452547.92687297</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>967487BF-5F65-4293-955C-0333258DF70A</string>
 		</dict>
 		<key>96A2BA57-12F0-49FB-946C-77129858F192</key>
 		<dict>
@@ -9696,6 +11430,40 @@
 			<key>uniqueIdentifier</key>
 			<string>97BE7C71-532E-47C5-A18B-66AA1BF418EC</string>
 		</dict>
+		<key>9801B43A-FBA9-4244-B0B3-9AB2552950AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9801B43A-FBA9-4244-B0B3-9AB2552950AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453944.230039</real>
+			<key>timeStoppedRecording</key>
+			<real>666453944.302297</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9801B43A-FBA9-4244-B0B3-9AB2552950AC</string>
+		</dict>
 		<key>98D7F4B8-2DAC-468E-AE35-102B41287D13</key>
 		<dict>
 			<key>className</key>
@@ -9832,6 +11600,40 @@
 			<key>uniqueIdentifier</key>
 			<string>99F07959-BB28-4751-8BE9-9A3AF75DCB86</string>
 		</dict>
+		<key>9A8F7EA3-197E-4009-A7DB-F530D4D4FDA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9A8F7EA3-197E-4009-A7DB-F530D4D4FDA7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>666453915.36465204</real>
+			<key>timeStoppedRecording</key>
+			<real>666453920.97812402</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>9A8F7EA3-197E-4009-A7DB-F530D4D4FDA7</string>
+		</dict>
 		<key>9B49D5BA-C36C-4C2A-87CA-CABB0207FF47</key>
 		<dict>
 			<key>className</key>
@@ -9934,6 +11736,74 @@
 			<key>uniqueIdentifier</key>
 			<string>9B77E0B7-0583-461C-8E38-E767ACCF4C60</string>
 		</dict>
+		<key>9B910471-A424-466A-9DFA-F6475F8158EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9B910471-A424-466A-9DFA-F6475F8158EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454596.34232998</real>
+			<key>timeStoppedRecording</key>
+			<real>666454596.67544603</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9B910471-A424-466A-9DFA-F6475F8158EF</string>
+		</dict>
+		<key>9CCAC5EC-1701-4206-84C0-CDEB5B5477EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9CCAC5EC-1701-4206-84C0-CDEB5B5477EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452746.45251906</real>
+			<key>timeStoppedRecording</key>
+			<real>666452746.55717397</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9CCAC5EC-1701-4206-84C0-CDEB5B5477EA</string>
+		</dict>
 		<key>9CFDFDC4-EC87-4F56-AFFF-8B151927FE9C</key>
 		<dict>
 			<key>className</key>
@@ -10001,6 +11871,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>9F69DB4A-5DD6-41E9-AF4B-0A1A62F4802F</string>
+		</dict>
+		<key>9F6CE949-0452-42F1-8F41-A3BF29CC7D91</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9F6CE949-0452-42F1-8F41-A3BF29CC7D91.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453555.06660998</real>
+			<key>timeStoppedRecording</key>
+			<real>666453555.27828801</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9F6CE949-0452-42F1-8F41-A3BF29CC7D91</string>
 		</dict>
 		<key>9FCAC540-A4AF-4250-9A5E-ED11325AB3F7</key>
 		<dict>
@@ -10171,6 +12075,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>A20058C3-B5F9-4CB3-B5D6-B42807E1A578</string>
+		</dict>
+		<key>A2167AD8-A606-4400-8EF7-D0F832E11288</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A2167AD8-A606-4400-8EF7-D0F832E11288.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453523.95447898</real>
+			<key>timeStoppedRecording</key>
+			<real>666453524.07510495</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A2167AD8-A606-4400-8EF7-D0F832E11288</string>
 		</dict>
 		<key>A252905D-86F3-40FB-AA9A-298313C8C65A</key>
 		<dict>
@@ -10410,6 +12348,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A426EAC9-5287-4F87-9556-210942A64993</string>
 		</dict>
+		<key>A450A91F-9ED3-4369-BA4F-0C33EA6A5783</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A450A91F-9ED3-4369-BA4F-0C33EA6A5783.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453631.08748305</real>
+			<key>timeStoppedRecording</key>
+			<real>666453631.33222198</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A450A91F-9ED3-4369-BA4F-0C33EA6A5783</string>
+		</dict>
 		<key>A4F56D1A-1F1C-4994-95C0-A3F478474851</key>
 		<dict>
 			<key>className</key>
@@ -10546,6 +12518,40 @@
 			<key>uniqueIdentifier</key>
 			<string>A56B2C0C-1364-4AF9-A510-C21C3EF5860C</string>
 		</dict>
+		<key>A574BC9A-4224-46B5-ADC4-DD3DF0A03413</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A574BC9A-4224-46B5-ADC4-DD3DF0A03413.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453440.53051603</real>
+			<key>timeStoppedRecording</key>
+			<real>666453440.71149695</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A574BC9A-4224-46B5-ADC4-DD3DF0A03413</string>
+		</dict>
 		<key>A61B20FA-36C3-4A98-8D9A-9DBDAC364ED9</key>
 		<dict>
 			<key>className</key>
@@ -10681,6 +12687,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>A770DF0B-BFC7-4870-A886-AFD4F842DA48</string>
+		</dict>
+		<key>A795BCF8-3AB6-48DD-BAB7-BE46207C19CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A795BCF8-3AB6-48DD-BAB7-BE46207C19CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453206.694646</real>
+			<key>timeStoppedRecording</key>
+			<real>666453206.86858904</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A795BCF8-3AB6-48DD-BAB7-BE46207C19CB</string>
 		</dict>
 		<key>A79C2423-326E-4F81-AB28-36C247AECBF8</key>
 		<dict>
@@ -10851,6 +12891,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>ABA05134-634F-4C5E-8331-3114FCE02240</string>
+		</dict>
+		<key>ABB4CBCA-281E-479D-BD1E-3B418C10F1CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>ABB4CBCA-281E-479D-BD1E-3B418C10F1CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453494.13738704</real>
+			<key>timeStoppedRecording</key>
+			<real>666453494.38704395</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>ABB4CBCA-281E-479D-BD1E-3B418C10F1CE</string>
 		</dict>
 		<key>ABDD065B-B103-41B5-8B2E-2340B8C595EA</key>
 		<dict>
@@ -11158,6 +13232,40 @@
 			<key>uniqueIdentifier</key>
 			<string>AD0E1120-7FCD-4582-9DFD-444428D1442E</string>
 		</dict>
+		<key>AD46651D-0B1F-4343-AAD4-B57EBE8F55AB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AD46651D-0B1F-4343-AAD4-B57EBE8F55AB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453980.73617101</real>
+			<key>timeStoppedRecording</key>
+			<real>666453980.84959996</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AD46651D-0B1F-4343-AAD4-B57EBE8F55AB</string>
+		</dict>
 		<key>AD527D8C-D7BC-4B0F-B914-2D053F023050</key>
 		<dict>
 			<key>className</key>
@@ -11191,6 +13299,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>AD527D8C-D7BC-4B0F-B914-2D053F023050</string>
+		</dict>
+		<key>AD8E0D02-A829-47DC-A256-D982071346F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AD8E0D02-A829-47DC-A256-D982071346F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452931.39151597</real>
+			<key>timeStoppedRecording</key>
+			<real>666452931.58743894</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AD8E0D02-A829-47DC-A256-D982071346F1</string>
 		</dict>
 		<key>ADCC1303-7880-4D01-B9CF-CE71CEAD2018</key>
 		<dict>
@@ -11362,6 +13504,40 @@
 			<key>uniqueIdentifier</key>
 			<string>AE854AB4-379E-49AC-80A8-44EEDD840913</string>
 		</dict>
+		<key>AEAEB2BB-3590-46CD-B869-8DB2896E1B34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AEAEB2BB-3590-46CD-B869-8DB2896E1B34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454422.42384005</real>
+			<key>timeStoppedRecording</key>
+			<real>666454422.49042106</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AEAEB2BB-3590-46CD-B869-8DB2896E1B34</string>
+		</dict>
 		<key>AF186DA1-1A0E-43DF-A1D9-194167B9321F</key>
 		<dict>
 			<key>className</key>
@@ -11464,6 +13640,40 @@
 			<key>uniqueIdentifier</key>
 			<string>AFE6DB27-030B-42AE-BEDB-E54257B53B48</string>
 		</dict>
+		<key>B045E37B-3980-4507-A805-EA6BB21B5B61</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B045E37B-3980-4507-A805-EA6BB21B5B61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454329.85743105</real>
+			<key>timeStoppedRecording</key>
+			<real>666454329.96522701</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B045E37B-3980-4507-A805-EA6BB21B5B61</string>
+		</dict>
 		<key>B09D9E03-929D-41DF-ACFF-FC037C45A8BB</key>
 		<dict>
 			<key>className</key>
@@ -11531,6 +13741,74 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>B0A3C2FF-C943-4BA1-8593-215A278114C5</string>
+		</dict>
+		<key>B0CD5943-A5FC-47CF-A2EC-468C6252447E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B0CD5943-A5FC-47CF-A2EC-468C6252447E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453595.278777</real>
+			<key>timeStoppedRecording</key>
+			<real>666453595.47202802</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B0CD5943-A5FC-47CF-A2EC-468C6252447E</string>
+		</dict>
+		<key>B15AA744-EBFE-434F-8A42-CD16BCBCE2C7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B15AA744-EBFE-434F-8A42-CD16BCBCE2C7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453620.90253305</real>
+			<key>timeStoppedRecording</key>
+			<real>666453621.00031602</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B15AA744-EBFE-434F-8A42-CD16BCBCE2C7</string>
 		</dict>
 		<key>B1D087B5-1D21-412D-BA49-71843A3FCD93</key>
 		<dict>
@@ -11906,6 +14184,40 @@
 			<key>uniqueIdentifier</key>
 			<string>B3CDA1BC-4BDD-425C-A323-C4711EE559F8</string>
 		</dict>
+		<key>B4028E70-8522-4AD1-88D4-8E8642182144</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B4028E70-8522-4AD1-88D4-8E8642182144.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452521.21122897</real>
+			<key>timeStoppedRecording</key>
+			<real>666452521.55599296</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B4028E70-8522-4AD1-88D4-8E8642182144</string>
+		</dict>
 		<key>B4B906DF-E8BB-4A78-8194-A2A327D2D8AF</key>
 		<dict>
 			<key>className</key>
@@ -12246,6 +14558,40 @@
 			<key>uniqueIdentifier</key>
 			<string>B89277FF-9E01-4783-8F53-87ECC9F100E9</string>
 		</dict>
+		<key>B8BC6AF0-134C-4077-AECA-348750EA180E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B8BC6AF0-134C-4077-AECA-348750EA180E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453506.49386597</real>
+			<key>timeStoppedRecording</key>
+			<real>666453506.56067395</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B8BC6AF0-134C-4077-AECA-348750EA180E</string>
+		</dict>
 		<key>B8E61A63-4593-4358-B461-C60BACAE86CA</key>
 		<dict>
 			<key>className</key>
@@ -12517,6 +14863,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>BCB86C4C-774B-4904-9A9D-752FDDD2AA01</string>
+		</dict>
+		<key>BD3C1B31-CB1A-44A7-967D-078EEBA9A9C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BD3C1B31-CB1A-44A7-967D-078EEBA9A9C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453481.67651606</real>
+			<key>timeStoppedRecording</key>
+			<real>666453481.80380094</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BD3C1B31-CB1A-44A7-967D-078EEBA9A9C4</string>
 		</dict>
 		<key>BD6BB0BC-0C80-4B06-A555-C7EB9200CA01</key>
 		<dict>
@@ -12824,6 +15204,40 @@
 			<key>uniqueIdentifier</key>
 			<string>C244D4ED-10EC-4F2D-80F8-943160C35973</string>
 		</dict>
+		<key>C319332E-B6B9-4CC3-92F5-7E65F71412D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C319332E-B6B9-4CC3-92F5-7E65F71412D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454023.71533406</real>
+			<key>timeStoppedRecording</key>
+			<real>666454023.78449297</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C319332E-B6B9-4CC3-92F5-7E65F71412D0</string>
+		</dict>
 		<key>C395D3FC-1EDD-4CCE-9ED8-C7785F21507E</key>
 		<dict>
 			<key>className</key>
@@ -13129,6 +15543,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>C7B3D23E-1DF7-46EB-8B1E-53F245FBA159</string>
+		</dict>
+		<key>C7C8DAF5-33AE-4014-A5F8-4AB4DD1518CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C7C8DAF5-33AE-4014-A5F8-4AB4DD1518CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454232.22865295</real>
+			<key>timeStoppedRecording</key>
+			<real>666454232.50538397</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C7C8DAF5-33AE-4014-A5F8-4AB4DD1518CA</string>
 		</dict>
 		<key>C962903F-DE03-4422-8689-B5F1064C7FA7</key>
 		<dict>
@@ -13470,6 +15918,40 @@
 			<key>uniqueIdentifier</key>
 			<string>CD42DE9A-CC86-4199-9B3E-3C71AF72B0BC</string>
 		</dict>
+		<key>CD4EDDE0-26CC-484B-8F37-A85223A82069</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CD4EDDE0-26CC-484B-8F37-A85223A82069.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453028.75564504</real>
+			<key>timeStoppedRecording</key>
+			<real>666453028.91139996</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>CD4EDDE0-26CC-484B-8F37-A85223A82069</string>
+		</dict>
 		<key>CD53C066-A0A7-4A20-ADF2-40C3DA3B0637</key>
 		<dict>
 			<key>className</key>
@@ -13503,6 +15985,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>CD53C066-A0A7-4A20-ADF2-40C3DA3B0637</string>
+		</dict>
+		<key>CD5877C4-6DBF-48B5-BAC6-9C9EA36764CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CD5877C4-6DBF-48B5-BAC6-9C9EA36764CD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453827.75696504</real>
+			<key>timeStoppedRecording</key>
+			<real>666453828.02975595</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>CD5877C4-6DBF-48B5-BAC6-9C9EA36764CD</string>
 		</dict>
 		<key>CD75583C-126D-4F2F-8FD3-009007DFE453</key>
 		<dict>
@@ -13571,6 +16087,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>CDC5DB24-DE23-4BC0-BFC6-3DB3F67878D9</string>
+		</dict>
+		<key>CE42DC08-5461-4DC3-A0FA-44DC54665953</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CE42DC08-5461-4DC3-A0FA-44DC54665953.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453113.38211203</real>
+			<key>timeStoppedRecording</key>
+			<real>666453113.582816</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>CE42DC08-5461-4DC3-A0FA-44DC54665953</string>
 		</dict>
 		<key>CE8C9E68-73B4-4E6B-838E-9CC74F6EAED9</key>
 		<dict>
@@ -13844,6 +16394,74 @@
 			<key>uniqueIdentifier</key>
 			<string>D0D05B9E-BE3D-4EA1-A847-F3A1DAF30310</string>
 		</dict>
+		<key>D1525C42-6F0A-44C0-8549-F01F3006F28E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D1525C42-6F0A-44C0-8549-F01F3006F28E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452533.66793895</real>
+			<key>timeStoppedRecording</key>
+			<real>666452533.78493404</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D1525C42-6F0A-44C0-8549-F01F3006F28E</string>
+		</dict>
+		<key>D15467D7-766A-4726-A5D4-FFE6CFCBA6D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D15467D7-766A-4726-A5D4-FFE6CFCBA6D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453771.82020402</real>
+			<key>timeStoppedRecording</key>
+			<real>666453772.10493004</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D15467D7-766A-4726-A5D4-FFE6CFCBA6D2</string>
+		</dict>
 		<key>D18A65E8-651A-497C-BC86-4C6E120735B6</key>
 		<dict>
 			<key>className</key>
@@ -14115,6 +16733,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>D54DD182-3CBC-40BE-A0A2-F592FACA11A1</string>
+		</dict>
+		<key>D5929BE3-6F79-464A-9E7A-D32BBEA3A0D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D5929BE3-6F79-464A-9E7A-D32BBEA3A0D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452620.75167704</real>
+			<key>timeStoppedRecording</key>
+			<real>666452620.80167699</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D5929BE3-6F79-464A-9E7A-D32BBEA3A0D7</string>
 		</dict>
 		<key>D69E409B-5AA1-48AA-9C61-50F70C0230C4</key>
 		<dict>
@@ -14489,6 +17141,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>DC09F162-260F-44CE-AF4A-842F3A6261E0</string>
+		</dict>
+		<key>DC3E33FC-3195-4E92-A955-35D2FBC7BB86</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DC3E33FC-3195-4E92-A955-35D2FBC7BB86.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453616.85246694</real>
+			<key>timeStoppedRecording</key>
+			<real>666453617.14008403</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DC3E33FC-3195-4E92-A955-35D2FBC7BB86</string>
 		</dict>
 		<key>DCABB897-426B-418E-B748-AA1305EE4442</key>
 		<dict>
@@ -14966,6 +17652,40 @@
 			<key>uniqueIdentifier</key>
 			<string>E0F934CB-841A-41F4-BDB4-ED0AE7D524BA</string>
 		</dict>
+		<key>E18F94CC-1887-42DF-86DA-6C45AA74C711</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E18F94CC-1887-42DF-86DA-6C45AA74C711.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453759.23449099</real>
+			<key>timeStoppedRecording</key>
+			<real>666453759.30079103</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E18F94CC-1887-42DF-86DA-6C45AA74C711</string>
+		</dict>
 		<key>E1AEE7E5-6613-4C53-BBBC-14FBD123225F</key>
 		<dict>
 			<key>className</key>
@@ -14999,6 +17719,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>E1AEE7E5-6613-4C53-BBBC-14FBD123225F</string>
+		</dict>
+		<key>E1F732D6-5A6B-4C50-B684-81EF5AA5AF93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E1F732D6-5A6B-4C50-B684-81EF5AA5AF93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453509.84594703</real>
+			<key>timeStoppedRecording</key>
+			<real>666453509.92197704</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E1F732D6-5A6B-4C50-B684-81EF5AA5AF93</string>
 		</dict>
 		<key>E2514CCD-AC5F-4A62-BAB4-0A88722AB53C</key>
 		<dict>
@@ -15611,6 +18365,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>E96DC4B2-4C94-469E-BF37-E463FEEC3570</string>
+		</dict>
+		<key>EB6AE91A-D965-4892-92A2-77D631DEAB34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>EB6AE91A-D965-4892-92A2-77D631DEAB34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666453014.69356596</real>
+			<key>timeStoppedRecording</key>
+			<real>666453014.78566003</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>EB6AE91A-D965-4892-92A2-77D631DEAB34</string>
 		</dict>
 		<key>ECD01C8C-32AD-46DE-94F7-D0532930C15E</key>
 		<dict>
@@ -16530,6 +19318,40 @@
 			<key>uniqueIdentifier</key>
 			<string>F3966DA2-5FBE-4755-B983-354032F7F7B0</string>
 		</dict>
+		<key>F46D633F-671A-408E-8567-66B1AE35E2AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F46D633F-671A-408E-8567-66B1AE35E2AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>666452492.23261094</real>
+			<key>timeStoppedRecording</key>
+			<real>666452521.23795903</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>F46D633F-671A-408E-8567-66B1AE35E2AF</string>
+		</dict>
 		<key>F4774CE3-0399-4ACA-AAF6-F7336352C9A5</key>
 		<dict>
 			<key>className</key>
@@ -17040,6 +19862,40 @@
 			<key>uniqueIdentifier</key>
 			<string>FA21274B-70EE-417D-AD1F-2058167F43AE</string>
 		</dict>
+		<key>FA25D5E0-0D7E-4195-A05D-ECAFF2C38DE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FA25D5E0-0D7E-4195-A05D-ECAFF2C38DE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454097.920555</real>
+			<key>timeStoppedRecording</key>
+			<real>666454098.04724896</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FA25D5E0-0D7E-4195-A05D-ECAFF2C38DE8</string>
+		</dict>
 		<key>FA6422FE-EDEC-4D73-B8DC-605CDF74BAD3</key>
 		<dict>
 			<key>className</key>
@@ -17175,6 +20031,40 @@
 			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
 			<key>uniqueIdentifier</key>
 			<string>FB01A105-16AD-4507-BE01-B0978F04C168</string>
+		</dict>
+		<key>FB483DE1-5C5B-4CC0-8A88-242D6A0314D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FB483DE1-5C5B-4CC0-8A88-242D6A0314D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666452793.661201</real>
+			<key>timeStoppedRecording</key>
+			<real>666452793.82448304</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FB483DE1-5C5B-4CC0-8A88-242D6A0314D3</string>
 		</dict>
 		<key>FB54B293-FAC1-4713-BF92-3513C3840C41</key>
 		<dict>
@@ -17753,6 +20643,40 @@
 			<string>Workspace Build Description</string>
 			<key>uniqueIdentifier</key>
 			<string>FF2CB118-2D7D-4D24-A8EA-86E20B3FA98F</string>
+		</dict>
+		<key>FFCCD509-E1EF-4119-8741-469DAC8B4B34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FFCCD509-E1EF-4119-8741-469DAC8B4B34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>666454387.87311697</real>
+			<key>timeStoppedRecording</key>
+			<real>666454388.07344902</real>
+			<key>title</key>
+			<string>TalentoMobile-PruebaTecnica Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FFCCD509-E1EF-4119-8741-469DAC8B4B34</string>
 		</dict>
 	</dict>
 </dict>

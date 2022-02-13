@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
 options: "00bbbcc0831f834c79e55b61575b29fdfaa7700f52c149c9d367c57cc05c0594"
-build_start_time: [1644759520, 161326885]
-build_end_time: [1644759521, 638720989]
+build_start_time: [1644761647, 744218826]
+build_end_time: [1644761650, 77753067]
 inputs:
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/AppDelegate.swift"
   : [1644577600, 864020347]
@@ -10,23 +10,23 @@ inputs:
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Components/View/CharacterView.swift"
   : [1644759511, 283528089]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Detail/DetailDataHandler.swift"
-  : [1644758183, 208834886]
+  : [1644760844, 398053884]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Detail/DetailViewController.swift"
   : [1644759519, 937387704]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Detail/DetailViewModel.swift"
-  : [1644754263, 853497982]
+  : [1644761623, 109873294]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/List/ListDataHandler.swift"
-  : [1644754891, 703893661]
+  : [1644760830, 990902900]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/List/ListViewController.swift"
   : [1644750428, 125693321]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/List/ListViewModel.swift"
-  : [1644759164, 885227680]
+  : [1644761623, 229154109]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/MainCoordinator.swift"
   : [1644759316, 88064670]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Models/DTO/Character.swift"
   : [1644591321, 809220790]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Models/DTO/CharacterDataContainer.swift"
-  : [1644591321, 847764015]
+  : [1644761647, 441028118]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Models/DTO/CharacterDataWrapper.swift"
   : [1644591321, 979750156]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Models/DTO/Comics.swift"
@@ -56,7 +56,7 @@ inputs:
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Utils/ConfigurableCells.swift"
   : [1644748861, 130507946]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Utils/DataHandler.swift"
-  : [1644754900, 73769092]
+  : [1644761443, 139890193]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Utils/SpinnerViewController.swift"
   : [1644748710, 239776134]
   ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica/Utils/UIImageView+Extensions.swift"

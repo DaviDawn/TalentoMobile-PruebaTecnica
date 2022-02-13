@@ -71,15 +71,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "1605A413-00E3-4691-BFB8-926BDA3624DB"
-            shouldBeEnabled = "No"
+            uuid = "D24179A8-1C38-456B-9501-C1064E99F476"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "TalentoMobile-PruebaTecnica/Detail/DetailViewModel.swift"
+            filePath = "TalentoMobile-PruebaTecnica/List/ListViewModel.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
             landmarkName = "fetch()"
             landmarkType = "7">
          </BreakpointContent>

@@ -9,5 +9,5 @@ import Foundation
 
 enum APIURLS: String {
     case list = "/v1/public/characters?"
-    case character = "/v1/public/characters/"
+    case characters = "/v1/public/characters/"
 }
