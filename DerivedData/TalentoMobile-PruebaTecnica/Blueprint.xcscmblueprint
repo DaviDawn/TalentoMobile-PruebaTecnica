@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D8930A9AE3BE52CC7CED269398565BA207098251",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D8930A9AE3BE52CC7CED269398565BA207098251" : 0,
+    "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86" : 0,
+    "3DA386A3A444B9A244A0B4EDDA1D9A14E62B91B3" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5AF5BD14-E7B9-4A82-B415-480AD29D2707",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D8930A9AE3BE52CC7CED269398565BA207098251" : "TalentoMobile-PruebaTecnica\/",
+    "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86" : "TalentoMobile-PruebaTecnica\/DerivedData\/TalentoMobile-PruebaTecnica\/SourcePackages\/checkouts\/AlamofireImage\/",
+    "3DA386A3A444B9A244A0B4EDDA1D9A14E62B91B3" : "TalentoMobile-PruebaTecnica\/DerivedData\/TalentoMobile-PruebaTecnica\/SourcePackages\/checkouts\/SwiftHash\/",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "TalentoMobile-PruebaTecnica\/DerivedData\/TalentoMobile-PruebaTecnica\/SourcePackages\/checkouts\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TalentoMobile-PruebaTecnica",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TalentoMobile-PruebaTecnica.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/ddab\/Desktop\/important%20things\/talentomobile-pruebatecnica\/TalentoMobile-PruebaTecnica\/DerivedData\/TalentoMobile-PruebaTecnica\/SourcePackages\/repositories\/SwiftHash-d196f175",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3DA386A3A444B9A244A0B4EDDA1D9A14E62B91B3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/ddab\/Desktop\/important%20things\/talentomobile-pruebatecnica\/TalentoMobile-PruebaTecnica\/DerivedData\/TalentoMobile-PruebaTecnica\/SourcePackages\/repositories\/Alamofire-e8f130fe",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/ddab\/Desktop\/important%20things\/talentomobile-pruebatecnica\/TalentoMobile-PruebaTecnica\/DerivedData\/TalentoMobile-PruebaTecnica\/SourcePackages\/repositories\/AlamofireImage-3fb017d3",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DaviDawn\/TalentoMobile-PruebaTecnica.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D8930A9AE3BE52CC7CED269398565BA207098251"
+    }
+  ]
+}

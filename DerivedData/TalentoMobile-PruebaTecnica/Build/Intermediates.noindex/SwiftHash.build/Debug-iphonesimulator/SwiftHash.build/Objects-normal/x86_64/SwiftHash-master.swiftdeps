@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "c37a9b983607173aaa619ac75dddc039d218593258e73e88f59f5ba0cd0a13c2"
+build_start_time: [1644588815, 960273981]
+build_end_time: [1644588819, 722897052]
+inputs:
+  ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/DerivedData/TalentoMobile-PruebaTecnica/SourcePackages/checkouts/SwiftHash/Sources/MD5.swift"
+  : [1644583554, 50387144]
+  ? "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/DerivedData/TalentoMobile-PruebaTecnica/SourcePackages/checkouts/SwiftHash/Sources/SHA1.swift"
+  : [1644583554, 50930976]

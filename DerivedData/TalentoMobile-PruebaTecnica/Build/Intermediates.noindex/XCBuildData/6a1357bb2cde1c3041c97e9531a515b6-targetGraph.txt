@@ -1,0 +1,10 @@
+Target dependency graph (5 targets)
+Alamofire in Alamofire, no dependencies
+Alamofire in Alamofire, depends on:
+Alamofire in Alamofire (explicit)
+SwiftHash in SwiftHash, no dependencies
+SwiftHash in SwiftHash, depends on:
+SwiftHash in SwiftHash (explicit)
+TalentoMobile-PruebaTecnica in TalentoMobile-PruebaTecnica, depends on:
+Alamofire in Alamofire (explicit)
+SwiftHash in SwiftHash (explicit)

@@ -2,6 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<string>Alamofire</string>
+	<string>CoreServices</string>
+	<string>Dispatch</string>
+	<string>WatchKit</string>
+	<string>SwiftUI</string>
+	<string>XCTest</string>
+	<string>FoundationNetworking</string>
+	<string>MobileCoreServices</string>
+	<string>SwiftHash</string>
+	<string>Foundation</string>
 	<string>UIKit</string>
+	<string>PackageDescription</string>
+	<string>Combine</string>
+	<string>SystemConfiguration</string>
 </array>
 </plist>

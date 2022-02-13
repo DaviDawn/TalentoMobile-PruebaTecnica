@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "84bc22f98433fdd0d53061f266811f5043e1c7c6affb25a2155dfea3434d4761"
+    }
+  ],
+  "containerPath" : "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/TalentoMobile-PruebaTecnica.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/DerivedData/TalentoMobile-PruebaTecnica/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/DerivedData/TalentoMobile-PruebaTecnica/Build/Products",
+      "derivedDataPath" : "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/DerivedData/TalentoMobile-PruebaTecnica/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/DerivedData/TalentoMobile-PruebaTecnica/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ddab/Desktop/important things/talentomobile-pruebatecnica/TalentoMobile-PruebaTecnica/DerivedData/TalentoMobile-PruebaTecnica/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "D4C1B48C-CD7D-4115-821C-D58998DDF176",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
