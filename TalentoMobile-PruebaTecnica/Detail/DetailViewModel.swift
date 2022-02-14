@@ -24,6 +24,15 @@ class DetailViewModel {
         self.output = output
         self.coordinator = coordinator
     }
+    
+    deinit {
+        print("deinit DetailViewModel")
+    }
+    
+    func setupValues() {
+        guard let character = character else { return }
+        self.output?.configure(thumbnail: character.thumbnail, title: character.name, description: character.description)
+    }
 }
 
 extension DetailViewModel: DetailViewModelDelegate {
@@ -36,11 +45,10 @@ extension DetailViewModel: DetailViewModelDelegate {
                 self.character = value?.characters?.filter({ $0.id == self.id }).first.flatMap({
                     return CharacterModel(id: $0.id, name: $0.name, description: $0.description, thumbnail: $0.thumbnail, comics: $0.comics, series: $0.series)
                 })
-//            self.output?.configure(thumbnail: <#T##Thumbnail#>, title: <#T##String#>, description: <#T##String#>)
+                self.setupValues()
             case .failure:
-                print("Error")
+                self.coordinator?.showError()
             }
-            
         }
     }
 }

@@ -13,8 +13,8 @@
 	<string>SwiftHash</string>
 	<string>Foundation</string>
 	<string>UIKit</string>
-	<string>PackageDescription</string>
 	<string>Combine</string>
+	<string>PackageDescription</string>
 	<string>SystemConfiguration</string>
 </array>
 </plist>

@@ -9,6 +9,7 @@ import UIKit
 
 protocol MainCoordinatorDelegate: AnyObject {
     func goToDetail(id: Int)
+    func showError()
     func showSpinner()
     func endSpinner()
 }
@@ -33,6 +34,12 @@ class MainCoordinator {
 }
 
 extension MainCoordinator: MainCoordinatorDelegate {
+    func showError() {
+        let alert = UIAlertController(title: "error_title".localized, message: "error_description".localized, preferredStyle: .alert)
+        alert.addAction(UIAlertAction(title: "error_button".localized, style: .default))
+        navigationController.present(alert, animated: false)
+    }
+    
     func goToDetail(id: Int) {
         let viewController = DetailViewController()
         let viewModel = DetailViewModel(id: id, output: viewController, coordinator: self)

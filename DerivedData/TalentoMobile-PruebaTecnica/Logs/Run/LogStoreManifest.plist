@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0905B12A-257D-4D01-9A63-7BD9BFF9C594</key>
+		<key>11F070A9-5934-42FF-93E1-D97E0E2E0EEA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0905B12A-257D-4D01-9A63-7BD9BFF9C594.xcactivitylog</string>
+			<string>11F070A9-5934-42FF-93E1-D97E0E2E0EEA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666446543.207268</real>
+			<real>666528991.72606301</real>
 			<key>timeStoppedRecording</key>
-			<real>666446559.46441805</real>
+			<real>666529004.55094099</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>0905B12A-257D-4D01-9A63-7BD9BFF9C594</string>
+			<string>11F070A9-5934-42FF-93E1-D97E0E2E0EEA</string>
 		</dict>
-		<key>0D677C22-4815-489C-B6AD-56F0B06DABF5</key>
+		<key>378B0909-0324-4573-B1DA-77C051A77831</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0D677C22-4815-489C-B6AD-56F0B06DABF5.xcactivitylog</string>
+			<string>378B0909-0324-4573-B1DA-77C051A77831.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666282036.58799005</real>
+			<real>666529907.41432905</real>
 			<key>timeStoppedRecording</key>
-			<real>666282094.94672799</real>
+			<real>666530294.00587296</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>0D677C22-4815-489C-B6AD-56F0B06DABF5</string>
+			<string>378B0909-0324-4573-B1DA-77C051A77831</string>
 		</dict>
-		<key>0FC473FB-E0FB-41B4-9581-7E5027FC0EE3</key>
+		<key>42E06AB4-CD6D-4215-BC89-B6005D79A513</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0FC473FB-E0FB-41B4-9581-7E5027FC0EE3.xcactivitylog</string>
+			<string>42E06AB4-CD6D-4215-BC89-B6005D79A513.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666447867.91626298</real>
+			<real>666454450.76145196</real>
 			<key>timeStoppedRecording</key>
-			<real>666447889.010741</real>
+			<real>666521251.52064097</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>0FC473FB-E0FB-41B4-9581-7E5027FC0EE3</string>
+			<string>42E06AB4-CD6D-4215-BC89-B6005D79A513</string>
 		</dict>
-		<key>120EE884-1D0F-4451-8357-C58055F76B55</key>
+		<key>471BD6A8-8C7B-48C1-BB98-598842EB3FA5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>120EE884-1D0F-4451-8357-C58055F76B55.xcactivitylog</string>
+			<string>471BD6A8-8C7B-48C1-BB98-598842EB3FA5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666441465.65974295</real>
+			<real>666528904.70020998</real>
 			<key>timeStoppedRecording</key>
-			<real>666441474.37406898</real>
+			<real>666528915.44839096</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>120EE884-1D0F-4451-8357-C58055F76B55</string>
+			<string>471BD6A8-8C7B-48C1-BB98-598842EB3FA5</string>
 		</dict>
-		<key>1599F16B-DB1C-41D5-BE89-9AE0D02F4FE3</key>
+		<key>4BF52277-6DA4-403D-9A22-EA752ED654F3</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1599F16B-DB1C-41D5-BE89-9AE0D02F4FE3.xcactivitylog</string>
+			<string>4BF52277-6DA4-403D-9A22-EA752ED654F3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666453227.71275795</real>
+			<real>666529213.761235</real>
 			<key>timeStoppedRecording</key>
-			<real>666453759.13218105</real>
+			<real>666529241.74232399</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>1599F16B-DB1C-41D5-BE89-9AE0D02F4FE3</string>
+			<string>4BF52277-6DA4-403D-9A22-EA752ED654F3</string>
 		</dict>
-		<key>19C219D0-340B-4575-B555-ED6D9F9345FD</key>
+		<key>57F4E606-5028-4730-944A-8174C3F20F70</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -185,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>19C219D0-340B-4575-B555-ED6D9F9345FD.xcactivitylog</string>
+			<string>57F4E606-5028-4730-944A-8174C3F20F70.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +202,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666452118.96550095</real>
+			<real>666530321.82948899</real>
 			<key>timeStoppedRecording</key>
-			<real>666452319.98499596</real>
+			<real>666530360.59379697</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>19C219D0-340B-4575-B555-ED6D9F9345FD</string>
+			<string>57F4E606-5028-4730-944A-8174C3F20F70</string>
 		</dict>
-		<key>1A22DB50-FB57-479E-A16C-BD29D7251548</key>
+		<key>66BD4404-85AB-4AC2-B4BC-F6733F1E3C5B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -219,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1A22DB50-FB57-479E-A16C-BD29D7251548.xcactivitylog</string>
+			<string>66BD4404-85AB-4AC2-B4BC-F6733F1E3C5B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +236,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666446692.47175705</real>
+			<real>666529314.59794295</real>
 			<key>timeStoppedRecording</key>
-			<real>666446805.931427</real>
+			<real>666529614.92396295</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>1A22DB50-FB57-479E-A16C-BD29D7251548</string>
+			<string>66BD4404-85AB-4AC2-B4BC-F6733F1E3C5B</string>
 		</dict>
-		<key>1D093D85-12ED-4412-AED9-6B25BA1B258E</key>
+		<key>6930EF60-3F78-4563-9E05-2FD4557DFF21</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -253,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1D093D85-12ED-4412-AED9-6B25BA1B258E.xcactivitylog</string>
+			<string>6930EF60-3F78-4563-9E05-2FD4557DFF21.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +270,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666442606.71020997</real>
+			<real>666529244.48759401</real>
 			<key>timeStoppedRecording</key>
-			<real>666442628.60874903</real>
+			<real>666529265.69899797</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>1D093D85-12ED-4412-AED9-6B25BA1B258E</string>
+			<string>6930EF60-3F78-4563-9E05-2FD4557DFF21</string>
 		</dict>
-		<key>235EBF8B-16DB-48B7-B2FB-D78DDBAE6326</key>
+		<key>6BC22DEE-CDB9-474A-ABAA-217CDBCC647A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -287,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>235EBF8B-16DB-48B7-B2FB-D78DDBAE6326.xcactivitylog</string>
+			<string>6BC22DEE-CDB9-474A-ABAA-217CDBCC647A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +304,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666446560.96571302</real>
+			<real>666529007.21388304</real>
 			<key>timeStoppedRecording</key>
-			<real>666446634.80555201</real>
+			<real>666529124.20954704</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>235EBF8B-16DB-48B7-B2FB-D78DDBAE6326</string>
+			<string>6BC22DEE-CDB9-474A-ABAA-217CDBCC647A</string>
 		</dict>
-		<key>25F2A84E-4701-4DED-BEFF-52D60B70A67C</key>
+		<key>75C0FC0A-4D5A-4E4B-9514-C9068CFC4740</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -321,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>25F2A84E-4701-4DED-BEFF-52D60B70A67C.xcactivitylog</string>
+			<string>75C0FC0A-4D5A-4E4B-9514-C9068CFC4740.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +338,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666443368.23905504</real>
+			<real>666528918.04577506</real>
 			<key>timeStoppedRecording</key>
-			<real>666443381.70024705</real>
+			<real>666528931.52939296</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>25F2A84E-4701-4DED-BEFF-52D60B70A67C</string>
+			<string>75C0FC0A-4D5A-4E4B-9514-C9068CFC4740</string>
 		</dict>
-		<key>29566FCE-4E1E-473F-AC12-0704AA135259</key>
+		<key>78C3528C-AE31-4020-BBE3-EE45AF38CC3A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -355,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>29566FCE-4E1E-473F-AC12-0704AA135259.xcactivitylog</string>
+			<string>78C3528C-AE31-4020-BBE3-EE45AF38CC3A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +372,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666353254.37539506</real>
+			<real>666529721.46154106</real>
 			<key>timeStoppedRecording</key>
-			<real>666353269.98233795</real>
+			<real>666529903.09509099</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>29566FCE-4E1E-473F-AC12-0704AA135259</string>
+			<string>78C3528C-AE31-4020-BBE3-EE45AF38CC3A</string>
 		</dict>
-		<key>2B573CEF-3E6C-4D20-A836-D711FC0677CF</key>
+		<key>7B659552-702E-401C-BBFF-AF854FAA2F8F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -389,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2B573CEF-3E6C-4D20-A836-D711FC0677CF.xcactivitylog</string>
+			<string>7B659552-702E-401C-BBFF-AF854FAA2F8F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +406,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666353119.88267505</real>
+			<real>666529267.86171103</real>
 			<key>timeStoppedRecording</key>
-			<real>666353140.02415299</real>
+			<real>666529312.05375195</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>2B573CEF-3E6C-4D20-A836-D711FC0677CF</string>
+			<string>7B659552-702E-401C-BBFF-AF854FAA2F8F</string>
 		</dict>
-		<key>2C477A94-CFCE-4F5F-B275-B0E9D7AD21F3</key>
+		<key>82853C75-4C2F-4B60-AB6F-F58B4D29B94D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -423,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2C477A94-CFCE-4F5F-B275-B0E9D7AD21F3.xcactivitylog</string>
+			<string>82853C75-4C2F-4B60-AB6F-F58B4D29B94D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +440,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666353207.20738697</real>
+			<real>666528958.494964</real>
 			<key>timeStoppedRecording</key>
-			<real>666353220.96180105</real>
+			<real>666528988.72922599</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>2C477A94-CFCE-4F5F-B275-B0E9D7AD21F3</string>
+			<string>82853C75-4C2F-4B60-AB6F-F58B4D29B94D</string>
 		</dict>
-		<key>2E56114D-2962-48DC-8497-0ACFBB975F0F</key>
+		<key>88EA9D7A-289F-423D-8657-1883EE906B25</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -457,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2E56114D-2962-48DC-8497-0ACFBB975F0F.xcactivitylog</string>
+			<string>88EA9D7A-289F-423D-8657-1883EE906B25.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +474,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666353284.89985394</real>
+			<real>666529174.16469502</real>
 			<key>timeStoppedRecording</key>
-			<real>666353358.82962596</real>
+			<real>666529211.10465705</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>2E56114D-2962-48DC-8497-0ACFBB975F0F</string>
+			<string>88EA9D7A-289F-423D-8657-1883EE906B25</string>
 		</dict>
-		<key>30D12884-2AB1-4BE4-9C9E-6DCAB738873B</key>
+		<key>8BD88A47-4E1E-4C11-87FA-F11A856D17B4</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -491,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>30D12884-2AB1-4BE4-9C9E-6DCAB738873B.xcactivitylog</string>
+			<string>8BD88A47-4E1E-4C11-87FA-F11A856D17B4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +508,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666454067.80957198</real>
+			<real>666529617.42279804</real>
 			<key>timeStoppedRecording</key>
-			<real>666454140.13252497</real>
+			<real>666529718.24622798</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>30D12884-2AB1-4BE4-9C9E-6DCAB738873B</string>
+			<string>8BD88A47-4E1E-4C11-87FA-F11A856D17B4</string>
 		</dict>
-		<key>32D80981-859B-471E-AED6-755C0A80EAE0</key>
+		<key>97DF2F0C-911C-44E8-BF85-B8D207BFB4CE</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -525,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>32D80981-859B-471E-AED6-755C0A80EAE0.xcactivitylog</string>
+			<string>97DF2F0C-911C-44E8-BF85-B8D207BFB4CE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +542,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666441823.24553096</real>
+			<real>666531234.53378904</real>
 			<key>timeStoppedRecording</key>
-			<real>666441872.52416301</real>
+			<real>666531263.91434395</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>32D80981-859B-471E-AED6-755C0A80EAE0</string>
+			<string>97DF2F0C-911C-44E8-BF85-B8D207BFB4CE</string>
 		</dict>
-		<key>34303CF3-5AAB-4B58-923E-2584CD1AC2B3</key>
+		<key>B5939E64-3E3A-42DF-BFFC-47E43D37763A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -559,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>34303CF3-5AAB-4B58-923E-2584CD1AC2B3.xcactivitylog</string>
+			<string>B5939E64-3E3A-42DF-BFFC-47E43D37763A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +576,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666442765.50887895</real>
+			<real>666528778.85625196</real>
 			<key>timeStoppedRecording</key>
-			<real>666442787.03182304</real>
+			<real>666528881.855551</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>34303CF3-5AAB-4B58-923E-2584CD1AC2B3</string>
+			<string>B5939E64-3E3A-42DF-BFFC-47E43D37763A</string>
 		</dict>
-		<key>35E94D07-7F1B-4659-B780-DF19C1CBFB16</key>
+		<key>BF427F0B-52D8-45F4-8929-B56AC7A75833</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -593,7 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>35E94D07-7F1B-4659-B780-DF19C1CBFB16.xcactivitylog</string>
+			<string>BF427F0B-52D8-45F4-8929-B56AC7A75833.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +610,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666441442.68068695</real>
+			<real>666531266.59971595</real>
 			<key>timeStoppedRecording</key>
-			<real>666441450.73524499</real>
+			<real>666531490.93311298</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>35E94D07-7F1B-4659-B780-DF19C1CBFB16</string>
+			<string>BF427F0B-52D8-45F4-8929-B56AC7A75833</string>
 		</dict>
-		<key>3601EAAC-13F4-4360-923C-36D1D61F677F</key>
+		<key>C2F9CE0E-2CBC-4E24-819F-B98B8B3D9D7F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -627,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3601EAAC-13F4-4360-923C-36D1D61F677F.xcactivitylog</string>
+			<string>C2F9CE0E-2CBC-4E24-819F-B98B8B3D9D7F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +644,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666442738.11581004</real>
+			<real>666528933.98829997</real>
 			<key>timeStoppedRecording</key>
-			<real>666442763.56284702</real>
+			<real>666528955.50132704</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>3601EAAC-13F4-4360-923C-36D1D61F677F</string>
+			<string>C2F9CE0E-2CBC-4E24-819F-B98B8B3D9D7F</string>
 		</dict>
-		<key>3734FF81-0AB0-44FD-829E-48726928293C</key>
+		<key>D4237095-9575-4E37-9E63-8F6829BFE556</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -661,7 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3734FF81-0AB0-44FD-829E-48726928293C.xcactivitylog</string>
+			<string>D4237095-9575-4E37-9E63-8F6829BFE556.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +678,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666281497.80408299</real>
+			<real>666529126.68651605</real>
 			<key>timeStoppedRecording</key>
-			<real>666281522.27851498</real>
+			<real>666529138.97113395</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>3734FF81-0AB0-44FD-829E-48726928293C</string>
+			<string>D4237095-9575-4E37-9E63-8F6829BFE556</string>
 		</dict>
-		<key>37541719-F942-4492-909A-ACD2E243F4DB</key>
+		<key>DEC9131E-6C03-430E-8B70-38F1335656E5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -695,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>37541719-F942-4492-909A-ACD2E243F4DB.xcactivitylog</string>
+			<string>DEC9131E-6C03-430E-8B70-38F1335656E5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +712,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666441283.13830602</real>
+			<real>666528884.52552104</real>
 			<key>timeStoppedRecording</key>
-			<real>666441348.90313804</real>
+			<real>666528901.951473</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>37541719-F942-4492-909A-ACD2E243F4DB</string>
+			<string>DEC9131E-6C03-430E-8B70-38F1335656E5</string>
 		</dict>
-		<key>39946401-581E-4A43-8213-EF1E630F08BC</key>
+		<key>ED8F042D-0C57-448B-A451-3799986FEA4A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -729,7 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>39946401-581E-4A43-8213-EF1E630F08BC.xcactivitylog</string>
+			<string>ED8F042D-0C57-448B-A451-3799986FEA4A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -746,15 +746,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666353222.85513103</real>
+			<real>666528470.46053898</real>
 			<key>timeStoppedRecording</key>
-			<real>666353252.21642494</real>
+			<real>666528773.08075702</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>39946401-581E-4A43-8213-EF1E630F08BC</string>
+			<string>ED8F042D-0C57-448B-A451-3799986FEA4A</string>
 		</dict>
-		<key>3B83A035-BEDA-44C9-8B86-F21372E0F6B1</key>
+		<key>EE42B226-013E-445D-B45A-CC6682E6A8C6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -763,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3B83A035-BEDA-44C9-8B86-F21372E0F6B1.xcactivitylog</string>
+			<string>EE42B226-013E-445D-B45A-CC6682E6A8C6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -780,15 +780,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666441373.83586395</real>
+			<real>666530946.34509397</real>
 			<key>timeStoppedRecording</key>
-			<real>666441417.65923595</real>
+			<real>666531228.53299999</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>3B83A035-BEDA-44C9-8B86-F21372E0F6B1</string>
+			<string>EE42B226-013E-445D-B45A-CC6682E6A8C6</string>
 		</dict>
-		<key>3FFD5798-A37B-42E0-9DCC-863FBB23F6DC</key>
+		<key>F2B4EFF8-8EBA-4F0B-8066-679159030C65</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -797,7 +797,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3FFD5798-A37B-42E0-9DCC-863FBB23F6DC.xcactivitylog</string>
+			<string>F2B4EFF8-8EBA-4F0B-8066-679159030C65.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -814,15 +814,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666441428.88295102</real>
+			<real>666529141.13234496</real>
 			<key>timeStoppedRecording</key>
-			<real>666441440.63790298</real>
+			<real>666529171.58596206</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>3FFD5798-A37B-42E0-9DCC-863FBB23F6DC</string>
+			<string>F2B4EFF8-8EBA-4F0B-8066-679159030C65</string>
 		</dict>
-		<key>449F520F-0E18-4121-83AA-1A2AB7DF897E</key>
+		<key>F77F01D0-E736-4123-963B-382D555FE76A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -831,7 +831,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>449F520F-0E18-4121-83AA-1A2AB7DF897E.xcactivitylog</string>
+			<string>F77F01D0-E736-4123-963B-382D555FE76A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -848,15 +848,15 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666282686.87445498</real>
+			<real>666530444.92953002</real>
 			<key>timeStoppedRecording</key>
-			<real>666283353.17683399</real>
+			<real>666530941.13531101</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>449F520F-0E18-4121-83AA-1A2AB7DF897E</string>
+			<string>F77F01D0-E736-4123-963B-382D555FE76A</string>
 		</dict>
-		<key>449F8AB9-3335-477B-9014-DA6005D18EF0</key>
+		<key>FE1ABAF4-E1F4-41C8-B082-4EBE8654FE52</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -865,7 +865,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>449F8AB9-3335-477B-9014-DA6005D18EF0.xcactivitylog</string>
+			<string>FE1ABAF4-E1F4-41C8-B082-4EBE8654FE52.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -882,2427 +882,13 @@
 			<key>signature</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>timeStartedRecording</key>
-			<real>666447094.69466603</real>
+			<real>666530368.45935595</real>
 			<key>timeStoppedRecording</key>
-			<real>666447140.33684802</real>
+			<real>666530442.46826899</real>
 			<key>title</key>
 			<string>Run TalentoMobile-PruebaTecnica</string>
 			<key>uniqueIdentifier</key>
-			<string>449F8AB9-3335-477B-9014-DA6005D18EF0</string>
-		</dict>
-		<key>4B3E6FF2-1D20-4894-B519-DA831BAEF0A1</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4B3E6FF2-1D20-4894-B519-DA831BAEF0A1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442057.40448105</real>
-			<key>timeStoppedRecording</key>
-			<real>666442224.70420003</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>4B3E6FF2-1D20-4894-B519-DA831BAEF0A1</string>
-		</dict>
-		<key>4B92C035-B8E9-45CE-859C-E20CDEEACCE3</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4B92C035-B8E9-45CE-859C-E20CDEEACCE3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441028.61477804</real>
-			<key>timeStoppedRecording</key>
-			<real>666441085.95513296</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>4B92C035-B8E9-45CE-859C-E20CDEEACCE3</string>
-		</dict>
-		<key>4BC83553-83D8-4678-BD1D-FF42034BAC44</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4BC83553-83D8-4678-BD1D-FF42034BAC44.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666283360.86458302</real>
-			<key>timeStoppedRecording</key>
-			<real>666283397.10361898</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>4BC83553-83D8-4678-BD1D-FF42034BAC44</string>
-		</dict>
-		<key>4C1145BE-764B-4001-B3E3-ABE8A6699666</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4C1145BE-764B-4001-B3E3-ABE8A6699666.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666447065.84260702</real>
-			<key>timeStoppedRecording</key>
-			<real>666447094.62383199</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>4C1145BE-764B-4001-B3E3-ABE8A6699666</string>
-		</dict>
-		<key>4C68A430-9544-4277-97DA-FD4D6ADAAEEB</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4C68A430-9544-4277-97DA-FD4D6ADAAEEB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666443696.81981504</real>
-			<key>timeStoppedRecording</key>
-			<real>666443716.36720896</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>4C68A430-9544-4277-97DA-FD4D6ADAAEEB</string>
-		</dict>
-		<key>4E685E7D-C1D1-471A-A9F6-1B0D4D1394AA</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4E685E7D-C1D1-471A-A9F6-1B0D4D1394AA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441419.64505696</real>
-			<key>timeStoppedRecording</key>
-			<real>666441428.82493103</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>4E685E7D-C1D1-471A-A9F6-1B0D4D1394AA</string>
-		</dict>
-		<key>4FB01F4F-FCC3-48E9-8F2F-66E57E9953CB</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4FB01F4F-FCC3-48E9-8F2F-66E57E9953CB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666282239.14562297</real>
-			<key>timeStoppedRecording</key>
-			<real>666282290.41020405</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>4FB01F4F-FCC3-48E9-8F2F-66E57E9953CB</string>
-		</dict>
-		<key>4FFA5254-BF6E-448D-8967-F608EECE4618</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>4FFA5254-BF6E-448D-8967-F608EECE4618.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666454282.52669704</real>
-			<key>timeStoppedRecording</key>
-			<real>666454355.996521</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>4FFA5254-BF6E-448D-8967-F608EECE4618</string>
-		</dict>
-		<key>52ACD3AC-5A71-4AEE-9DBA-89FAC26D3CB2</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>52ACD3AC-5A71-4AEE-9DBA-89FAC26D3CB2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666443328.75936103</real>
-			<key>timeStoppedRecording</key>
-			<real>666443366.44239199</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>52ACD3AC-5A71-4AEE-9DBA-89FAC26D3CB2</string>
-		</dict>
-		<key>56A92D0A-F49A-455E-8460-C7FD0CD88B0D</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>56A92D0A-F49A-455E-8460-C7FD0CD88B0D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666281920.60411406</real>
-			<key>timeStoppedRecording</key>
-			<real>666282033.15875006</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>56A92D0A-F49A-455E-8460-C7FD0CD88B0D</string>
-		</dict>
-		<key>59CA7907-23EF-4790-8062-57A269AEA066</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>59CA7907-23EF-4790-8062-57A269AEA066.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666446808.87120199</real>
-			<key>timeStoppedRecording</key>
-			<real>666446843.696545</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>59CA7907-23EF-4790-8062-57A269AEA066</string>
-		</dict>
-		<key>5A34ECD6-A26A-4473-AE77-43D68FFDFBD8</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>5A34ECD6-A26A-4473-AE77-43D68FFDFBD8.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666443383.54124498</real>
-			<key>timeStoppedRecording</key>
-			<real>666443403.22831798</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>5A34ECD6-A26A-4473-AE77-43D68FFDFBD8</string>
-		</dict>
-		<key>6334412E-406F-45CE-BC7F-A44EDA7ECD56</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>6334412E-406F-45CE-BC7F-A44EDA7ECD56.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666447140.400424</real>
-			<key>timeStoppedRecording</key>
-			<real>666447262.99039698</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>6334412E-406F-45CE-BC7F-A44EDA7ECD56</string>
-		</dict>
-		<key>65719F60-BE51-4D83-A126-18961E9AA467</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>65719F60-BE51-4D83-A126-18961E9AA467.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666443605.94448495</real>
-			<key>timeStoppedRecording</key>
-			<real>666443693.81260204</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>65719F60-BE51-4D83-A126-18961E9AA467</string>
-		</dict>
-		<key>659A5DCA-7486-40EB-A97E-EE16718AE225</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>659A5DCA-7486-40EB-A97E-EE16718AE225.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666443718.61364102</real>
-			<key>timeStoppedRecording</key>
-			<real>666445705.50606704</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>659A5DCA-7486-40EB-A97E-EE16718AE225</string>
-		</dict>
-		<key>679C5BCE-6740-4599-8997-4C492165F56F</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>679C5BCE-6740-4599-8997-4C492165F56F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442040.19995999</real>
-			<key>timeStoppedRecording</key>
-			<real>666442055.61009502</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>679C5BCE-6740-4599-8997-4C492165F56F</string>
-		</dict>
-		<key>67DEFF3D-30B0-4EEA-AD64-280EC71A138F</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>67DEFF3D-30B0-4EEA-AD64-280EC71A138F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666447702.23315597</real>
-			<key>timeStoppedRecording</key>
-			<real>666447721.42292094</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>67DEFF3D-30B0-4EEA-AD64-280EC71A138F</string>
-		</dict>
-		<key>69761EEF-FB0B-41AE-825D-64E0F75E3426</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>69761EEF-FB0B-41AE-825D-64E0F75E3426.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666284130.96888399</real>
-			<key>timeStoppedRecording</key>
-			<real>666353117.865206</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>69761EEF-FB0B-41AE-825D-64E0F75E3426</string>
-		</dict>
-		<key>6A2C51B8-1BC5-48A1-A93D-6F4384693BC9</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>6A2C51B8-1BC5-48A1-A93D-6F4384693BC9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666282098.14432597</real>
-			<key>timeStoppedRecording</key>
-			<real>666282139.68700004</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>6A2C51B8-1BC5-48A1-A93D-6F4384693BC9</string>
-		</dict>
-		<key>6D812359-484A-4688-A3A3-CABBFC5F7AC8</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>6D812359-484A-4688-A3A3-CABBFC5F7AC8.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666281812.95546401</real>
-			<key>timeStoppedRecording</key>
-			<real>666281907.81496894</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>6D812359-484A-4688-A3A3-CABBFC5F7AC8</string>
-		</dict>
-		<key>782EAE0B-2409-499F-A6D8-D925629104E5</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>782EAE0B-2409-499F-A6D8-D925629104E5.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666454269.64151204</real>
-			<key>timeStoppedRecording</key>
-			<real>666454282.45044899</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>782EAE0B-2409-499F-A6D8-D925629104E5</string>
-		</dict>
-		<key>790901CA-3F5D-4745-8008-CFDE83A1C663</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>790901CA-3F5D-4745-8008-CFDE83A1C663.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666450863.425807</real>
-			<key>timeStoppedRecording</key>
-			<real>666450983.29437399</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>790901CA-3F5D-4745-8008-CFDE83A1C663</string>
-		</dict>
-		<key>7A0C75F8-673F-47C1-AE62-8B3B748412F2</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>7A0C75F8-673F-47C1-AE62-8B3B748412F2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666454245.56343603</real>
-			<key>timeStoppedRecording</key>
-			<real>666454269.56174302</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>7A0C75F8-673F-47C1-AE62-8B3B748412F2</string>
-		</dict>
-		<key>82F68CA3-3679-404E-8B1D-2E5567C4D83D</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>82F68CA3-3679-404E-8B1D-2E5567C4D83D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442253.20066595</real>
-			<key>timeStoppedRecording</key>
-			<real>666442342.12880099</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>82F68CA3-3679-404E-8B1D-2E5567C4D83D</string>
-		</dict>
-		<key>85102225-FBDF-4997-A337-6DF641F98773</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>85102225-FBDF-4997-A337-6DF641F98773.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666283581.37781799</real>
-			<key>timeStoppedRecording</key>
-			<real>666284121.71525705</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>85102225-FBDF-4997-A337-6DF641F98773</string>
-		</dict>
-		<key>85131AC4-2993-40F9-9D15-8497C97D8630</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>85131AC4-2993-40F9-9D15-8497C97D8630.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666282291.864923</real>
-			<key>timeStoppedRecording</key>
-			<real>666282684.24747598</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>85131AC4-2993-40F9-9D15-8497C97D8630</string>
-		</dict>
-		<key>85ACC55D-7F4D-4535-9F21-E1E795A00E50</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>85ACC55D-7F4D-4535-9F21-E1E795A00E50.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666454190.39992094</real>
-			<key>timeStoppedRecording</key>
-			<real>666454215.34764099</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>85ACC55D-7F4D-4535-9F21-E1E795A00E50</string>
-		</dict>
-		<key>8961A0ED-A1BE-4814-AD48-95EA5E72971F</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>8961A0ED-A1BE-4814-AD48-95EA5E72971F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442630.41669595</real>
-			<key>timeStoppedRecording</key>
-			<real>666442735.47888803</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>8961A0ED-A1BE-4814-AD48-95EA5E72971F</string>
-		</dict>
-		<key>89B303AF-A0BF-4EBB-993E-F34FCF53A076</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>89B303AF-A0BF-4EBB-993E-F34FCF53A076.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666454142.60479403</real>
-			<key>timeStoppedRecording</key>
-			<real>666454190.32744896</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>89B303AF-A0BF-4EBB-993E-F34FCF53A076</string>
-		</dict>
-		<key>8DC0AACE-6115-4B81-9D00-4D4074C4618E</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>8DC0AACE-6115-4B81-9D00-4D4074C4618E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441110.62070799</real>
-			<key>timeStoppedRecording</key>
-			<real>666441234.61987996</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>8DC0AACE-6115-4B81-9D00-4D4074C4618E</string>
-		</dict>
-		<key>945A644C-8616-441A-9340-A7F2EC4D673A</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>945A644C-8616-441A-9340-A7F2EC4D673A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666447930.85703504</real>
-			<key>timeStoppedRecording</key>
-			<real>666450863.21932995</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>945A644C-8616-441A-9340-A7F2EC4D673A</string>
-		</dict>
-		<key>A19F5A8B-02E0-40AA-9946-DA4EDEC5FB3C</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A19F5A8B-02E0-40AA-9946-DA4EDEC5FB3C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442501.95482397</real>
-			<key>timeStoppedRecording</key>
-			<real>666442515.73388195</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>A19F5A8B-02E0-40AA-9946-DA4EDEC5FB3C</string>
-		</dict>
-		<key>A3F73F00-0D53-4BA4-95FC-747D50CDD19A</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A3F73F00-0D53-4BA4-95FC-747D50CDD19A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441488.50777304</real>
-			<key>timeStoppedRecording</key>
-			<real>666441497.77897</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>A3F73F00-0D53-4BA4-95FC-747D50CDD19A</string>
-		</dict>
-		<key>A4E775FD-1F33-47C1-A1C8-407737F22699</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A4E775FD-1F33-47C1-A1C8-407737F22699.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666353191.28895497</real>
-			<key>timeStoppedRecording</key>
-			<real>666353205.47243798</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>A4E775FD-1F33-47C1-A1C8-407737F22699</string>
-		</dict>
-		<key>A6C00E24-0906-4B7A-8816-70C5F04FF05B</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A6C00E24-0906-4B7A-8816-70C5F04FF05B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666450986.28440404</real>
-			<key>timeStoppedRecording</key>
-			<real>666452089.26375997</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>A6C00E24-0906-4B7A-8816-70C5F04FF05B</string>
-		</dict>
-		<key>A84150D0-30E9-4501-9ECB-E8AE17938881</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A84150D0-30E9-4501-9ECB-E8AE17938881.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666452092.50949204</real>
-			<key>timeStoppedRecording</key>
-			<real>666452116.39903998</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>A84150D0-30E9-4501-9ECB-E8AE17938881</string>
-		</dict>
-		<key>A88FBCD9-5E09-42D9-B15B-A6F65D698276</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A88FBCD9-5E09-42D9-B15B-A6F65D698276.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666281704.76720297</real>
-			<key>timeStoppedRecording</key>
-			<real>666281789.50827205</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>A88FBCD9-5E09-42D9-B15B-A6F65D698276</string>
-		</dict>
-		<key>B0F757FF-E90E-4D80-887B-FE0B465417FC</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>B0F757FF-E90E-4D80-887B-FE0B465417FC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666454358.76212394</real>
-			<key>timeStoppedRecording</key>
-			<real>666454423.10616601</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>B0F757FF-E90E-4D80-887B-FE0B465417FC</string>
-		</dict>
-		<key>B437859D-B206-4599-AAAF-8D2B4D1D6E40</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>B437859D-B206-4599-AAAF-8D2B4D1D6E40.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441351.17213595</real>
-			<key>timeStoppedRecording</key>
-			<real>666441372.027403</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>B437859D-B206-4599-AAAF-8D2B4D1D6E40</string>
-		</dict>
-		<key>B50C08E9-B2D7-4DE5-AC31-D158865B042F</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>B50C08E9-B2D7-4DE5-AC31-D158865B042F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441499.52654302</real>
-			<key>timeStoppedRecording</key>
-			<real>666441510.23582304</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>B50C08E9-B2D7-4DE5-AC31-D158865B042F</string>
-		</dict>
-		<key>B9E53768-D3A1-419F-95F4-E6F3DB0870F2</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>B9E53768-D3A1-419F-95F4-E6F3DB0870F2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666283550.486588</real>
-			<key>timeStoppedRecording</key>
-			<real>666283581.30286801</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>B9E53768-D3A1-419F-95F4-E6F3DB0870F2</string>
-		</dict>
-		<key>BAD1A353-4AF8-4267-BF24-E4E0024745CA</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>BAD1A353-4AF8-4267-BF24-E4E0024745CA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442583.32285798</real>
-			<key>timeStoppedRecording</key>
-			<real>666442604.64547896</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>BAD1A353-4AF8-4267-BF24-E4E0024745CA</string>
-		</dict>
-		<key>BBB94BCA-B8CE-4B0D-8359-F8E6FAD51F4D</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>BBB94BCA-B8CE-4B0D-8359-F8E6FAD51F4D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666282181.10387599</real>
-			<key>timeStoppedRecording</key>
-			<real>666282228.05548298</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>BBB94BCA-B8CE-4B0D-8359-F8E6FAD51F4D</string>
-		</dict>
-		<key>BBBA7660-E594-4C71-840C-0A71484645CE</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>BBBA7660-E594-4C71-840C-0A71484645CE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442344.57191598</real>
-			<key>timeStoppedRecording</key>
-			<real>666442501.89346004</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>BBBA7660-E594-4C71-840C-0A71484645CE</string>
-		</dict>
-		<key>C1370A91-29E2-401B-90D0-4B8E4B9C8C87</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C1370A91-29E2-401B-90D0-4B8E4B9C8C87.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442518.09017897</real>
-			<key>timeStoppedRecording</key>
-			<real>666442578.77354801</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>C1370A91-29E2-401B-90D0-4B8E4B9C8C87</string>
-		</dict>
-		<key>C35FCCC6-E658-4D90-880A-3DB64940C6DA</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C35FCCC6-E658-4D90-880A-3DB64940C6DA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441511.962713</real>
-			<key>timeStoppedRecording</key>
-			<real>666441820.89155996</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>C35FCCC6-E658-4D90-880A-3DB64940C6DA</string>
-		</dict>
-		<key>C3D150BF-B7A2-49F3-8078-12E9DB74A862</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C3D150BF-B7A2-49F3-8078-12E9DB74A862.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441476.25654399</real>
-			<key>timeStoppedRecording</key>
-			<real>666441486.62153697</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>C3D150BF-B7A2-49F3-8078-12E9DB74A862</string>
-		</dict>
-		<key>C4F833D6-4D41-4CBA-AD23-049C48A7AEB3</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C4F833D6-4D41-4CBA-AD23-049C48A7AEB3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666353271.65786397</real>
-			<key>timeStoppedRecording</key>
-			<real>666353283.18728995</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>C4F833D6-4D41-4CBA-AD23-049C48A7AEB3</string>
-		</dict>
-		<key>C5A57BB8-1FC9-4727-B6AF-FAA2E2A804F2</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C5A57BB8-1FC9-4727-B6AF-FAA2E2A804F2.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666445709.74502301</real>
-			<key>timeStoppedRecording</key>
-			<real>666445868.39199901</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>C5A57BB8-1FC9-4727-B6AF-FAA2E2A804F2</string>
-		</dict>
-		<key>C7CE1DA4-9253-4FE5-95F0-E1E763BC377F</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C7CE1DA4-9253-4FE5-95F0-E1E763BC377F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441236.95090401</real>
-			<key>timeStoppedRecording</key>
-			<real>666441281.24976301</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>C7CE1DA4-9253-4FE5-95F0-E1E763BC377F</string>
-		</dict>
-		<key>C96E6DBB-0F2A-4918-A5D6-61B4E12C5271</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>C96E6DBB-0F2A-4918-A5D6-61B4E12C5271.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666282142.76155603</real>
-			<key>timeStoppedRecording</key>
-			<real>666282177.82450104</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>C96E6DBB-0F2A-4918-A5D6-61B4E12C5271</string>
-		</dict>
-		<key>CC616F12-3ECE-4A0B-92F2-1A4920639344</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>CC616F12-3ECE-4A0B-92F2-1A4920639344.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666281793.33835399</real>
-			<key>timeStoppedRecording</key>
-			<real>666281812.86124599</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>CC616F12-3ECE-4A0B-92F2-1A4920639344</string>
-		</dict>
-		<key>CDC631C0-F9F4-4541-B3B0-2DFA60E0663B</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>CDC631C0-F9F4-4541-B3B0-2DFA60E0663B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666446637.42004299</real>
-			<key>timeStoppedRecording</key>
-			<real>666446692.41325605</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>CDC631C0-F9F4-4541-B3B0-2DFA60E0663B</string>
-		</dict>
-		<key>CECFCFBD-98E0-49AC-A3BB-CF2BD8668410</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>CECFCFBD-98E0-49AC-A3BB-CF2BD8668410.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441087.96237302</real>
-			<key>timeStoppedRecording</key>
-			<real>666441108.45636296</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>CECFCFBD-98E0-49AC-A3BB-CF2BD8668410</string>
-		</dict>
-		<key>CF57FF4B-5F06-4AB3-B40C-871DCB1162E0</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>CF57FF4B-5F06-4AB3-B40C-871DCB1162E0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666452322.39342797</real>
-			<key>timeStoppedRecording</key>
-			<real>666453227.64844</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>CF57FF4B-5F06-4AB3-B40C-871DCB1162E0</string>
-		</dict>
-		<key>D19A9D07-473D-4DDB-96CD-99AFBD30DCBB</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>D19A9D07-473D-4DDB-96CD-99AFBD30DCBB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666353156.303985</real>
-			<key>timeStoppedRecording</key>
-			<real>666353189.56303406</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>D19A9D07-473D-4DDB-96CD-99AFBD30DCBB</string>
-		</dict>
-		<key>D454240A-6384-4AB7-B547-B2A56F7D2FB6</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>D454240A-6384-4AB7-B547-B2A56F7D2FB6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442789.028723</real>
-			<key>timeStoppedRecording</key>
-			<real>666443326.85003495</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>D454240A-6384-4AB7-B547-B2A56F7D2FB6</string>
-		</dict>
-		<key>D7C8E9B8-6EE8-4E4B-ACA8-346E34616C38</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>D7C8E9B8-6EE8-4E4B-ACA8-346E34616C38.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666447892.15560496</real>
-			<key>timeStoppedRecording</key>
-			<real>666447927.73163605</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>D7C8E9B8-6EE8-4E4B-ACA8-346E34616C38</string>
-		</dict>
-		<key>D7E08C8A-BBD3-4ADC-8EFB-75562F7B184A</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>D7E08C8A-BBD3-4ADC-8EFB-75562F7B184A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666442233.46958494</real>
-			<key>timeStoppedRecording</key>
-			<real>666442253.14600003</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>D7E08C8A-BBD3-4ADC-8EFB-75562F7B184A</string>
-		</dict>
-		<key>DAAC70ED-AE92-4C39-80A5-6BCDB19BDC05</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>DAAC70ED-AE92-4C39-80A5-6BCDB19BDC05.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666447721.492136</real>
-			<key>timeStoppedRecording</key>
-			<real>666447762.65722096</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>DAAC70ED-AE92-4C39-80A5-6BCDB19BDC05</string>
-		</dict>
-		<key>DE1D5175-F4EA-46B0-8626-069720D28CB1</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>DE1D5175-F4EA-46B0-8626-069720D28CB1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666453761.48189104</real>
-			<key>timeStoppedRecording</key>
-			<real>666453832.31586099</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>DE1D5175-F4EA-46B0-8626-069720D28CB1</string>
-		</dict>
-		<key>E4040438-329D-4EC9-A947-C947BF0026FD</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>E4040438-329D-4EC9-A947-C947BF0026FD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441452.48215401</real>
-			<key>timeStoppedRecording</key>
-			<real>666441464.00686097</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>E4040438-329D-4EC9-A947-C947BF0026FD</string>
-		</dict>
-		<key>E496C081-0DD4-41FA-A094-077B3CFFA4EA</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>E496C081-0DD4-41FA-A094-077B3CFFA4EA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666283399.31483901</real>
-			<key>timeStoppedRecording</key>
-			<real>666283433.35566604</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>E496C081-0DD4-41FA-A094-077B3CFFA4EA</string>
-		</dict>
-		<key>E5BE85E0-BA32-4047-B10C-35D08E12F69A</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>E5BE85E0-BA32-4047-B10C-35D08E12F69A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666447762.72152495</real>
-			<key>timeStoppedRecording</key>
-			<real>666447786.19573796</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>E5BE85E0-BA32-4047-B10C-35D08E12F69A</string>
-		</dict>
-		<key>E6DFE511-013C-4D88-8D89-F0C2932988E3</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>E6DFE511-013C-4D88-8D89-F0C2932988E3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666446845.46514595</real>
-			<key>timeStoppedRecording</key>
-			<real>666446960.42312896</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>E6DFE511-013C-4D88-8D89-F0C2932988E3</string>
-		</dict>
-		<key>E75FE59B-E777-4265-9BA3-BBE0E4F9EEC0</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>E75FE59B-E777-4265-9BA3-BBE0E4F9EEC0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666447786.25972199</real>
-			<key>timeStoppedRecording</key>
-			<real>666447865.19760597</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>E75FE59B-E777-4265-9BA3-BBE0E4F9EEC0</string>
-		</dict>
-		<key>EA79EDF6-2055-4B51-91E3-D078AE607080</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>EA79EDF6-2055-4B51-91E3-D078AE607080.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666353360.83557498</real>
-			<key>timeStoppedRecording</key>
-			<real>666353373.722453</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>EA79EDF6-2055-4B51-91E3-D078AE607080</string>
-		</dict>
-		<key>F168FBC8-93F7-402D-AEC7-04E90464A2CB</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F168FBC8-93F7-402D-AEC7-04E90464A2CB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666443405.00718904</real>
-			<key>timeStoppedRecording</key>
-			<real>666443605.88392794</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>F168FBC8-93F7-402D-AEC7-04E90464A2CB</string>
-		</dict>
-		<key>F6815426-BEDA-4770-8F84-7D5B4C325C9B</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F6815426-BEDA-4770-8F84-7D5B4C325C9B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666353375.47870398</real>
-			<key>timeStoppedRecording</key>
-			<real>666353610.37618101</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>F6815426-BEDA-4770-8F84-7D5B4C325C9B</string>
-		</dict>
-		<key>F723106F-F4E9-45DB-B8EB-3E7F8E1B0BCC</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F723106F-F4E9-45DB-B8EB-3E7F8E1B0BCC.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666353612.248016</real>
-			<key>timeStoppedRecording</key>
-			<real>666440997.55309606</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>F723106F-F4E9-45DB-B8EB-3E7F8E1B0BCC</string>
-		</dict>
-		<key>FF9E55B9-2E52-4B80-820E-681E13B31F3E</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>FF9E55B9-2E52-4B80-820E-681E13B31F3E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TalentoMobile-PruebaTecnica project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TalentoMobile-PruebaTecnica</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>timeStartedRecording</key>
-			<real>666441874.61766601</real>
-			<key>timeStoppedRecording</key>
-			<real>666442019.25194502</real>
-			<key>title</key>
-			<string>Run TalentoMobile-PruebaTecnica</string>
-			<key>uniqueIdentifier</key>
-			<string>FF9E55B9-2E52-4B80-820E-681E13B31F3E</string>
+			<string>FE1ABAF4-E1F4-41C8-B082-4EBE8654FE52</string>
 		</dict>
 	</dict>
 </dict>

@@ -14,13 +14,15 @@ protocol DetailViewControllerOutput: AnyObject {
 class DetailViewController: UIViewController {
     var viewModel: DetailViewModelDelegate?
     
+    deinit {
+        print("deinit DetailViewController")
+    }
+    
     lazy var thumbnail: UIImageView = {
         let thumbnail = UIImageView()
         thumbnail.translatesAutoresizingMaskIntoConstraints = false
-        thumbnail.contentMode = .scaleAspectFit
-        
+        thumbnail.contentMode = .scaleToFill
         thumbnail.clipsToBounds = true
-        thumbnail.contentMode = .center
         return thumbnail
     }()
     
@@ -35,6 +37,7 @@ class DetailViewController: UIViewController {
         let label = UILabel()
         label.font = .systemFont(ofSize: 16)
         label.textColor = .gray
+        label.numberOfLines = 0
         label.translatesAutoresizingMaskIntoConstraints = false
         return label
     }()
@@ -47,7 +50,7 @@ class DetailViewController: UIViewController {
     }
     
     func setupViews() {
-        view.backgroundColor = .red
+        view.backgroundColor = .white
         
         view.addSubview(thumbnail)
         view.addSubview(titleLabel)
@@ -55,10 +58,10 @@ class DetailViewController: UIViewController {
         
         NSLayoutConstraint.activate([
             thumbnail.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor),
-            thumbnail.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor),
-            thumbnail.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor),
+            thumbnail.leadingAnchor.constraint(equalTo: view.leadingAnchor),
+            thumbnail.trailingAnchor.constraint(equalTo: view.trailingAnchor),
             
-            titleLabel.bottomAnchor.constraint(equalTo: thumbnail.bottomAnchor, constant: 18),
+            titleLabel.bottomAnchor.constraint(equalTo: thumbnail.bottomAnchor, constant: 36),
             titleLabel.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor, constant: 18),
             titleLabel.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor, constant: -18),
             

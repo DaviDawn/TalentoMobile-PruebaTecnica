@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E31CF33627BA70AC0016A386 /* CustomError.swift in Sources */ = {isa = PBXBuildFile; fileRef = E31CF33527BA70AC0016A386 /* CustomError.swift */; };
+		E31CF33827BA70C30016A386 /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E31CF33727BA70C30016A386 /* Date+Extensions.swift */; };
+		E31CF33B27BA736E0016A386 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E31CF33A27BA736E0016A386 /* Localizable.strings */; };
+		E31CF33D27BA74170016A386 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E31CF33C27BA74170016A386 /* String+Extensions.swift */; };
 		E37218DA27B6AB7F002355EB /* CharacterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37218D927B6AB7F002355EB /* CharacterView.swift */; };
 		E37218DC27B6AEDD002355EB /* CharacterDataContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37218DB27B6AEDD002355EB /* CharacterDataContainer.swift */; };
 		E37218DE27B6AEF2002355EB /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37218DD27B6AEF2002355EB /* Character.swift */; };
@@ -43,6 +47,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E31CF33527BA70AC0016A386 /* CustomError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomError.swift; sourceTree = "<group>"; };
+		E31CF33727BA70C30016A386 /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
+		E31CF33A27BA736E0016A386 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		E31CF33C27BA74170016A386 /* String+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
 		E37218D927B6AB7F002355EB /* CharacterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterView.swift; sourceTree = "<group>"; };
 		E37218DB27B6AEDD002355EB /* CharacterDataContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterDataContainer.swift; sourceTree = "<group>"; };
 		E37218DD27B6AEF2002355EB /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
@@ -75,7 +83,7 @@
 		E3E808A527B6816200C7DEAF /* MainCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCoordinator.swift; sourceTree = "<group>"; };
 		E3E808A727B686E600C7DEAF /* ListDataHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDataHandler.swift; sourceTree = "<group>"; };
 		E3E808A927B6881900C7DEAF /* APIURLS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIURLS.swift; sourceTree = "<group>"; };
-		E3E808AC27B68ABC00C7DEAF /* DataHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataHandler.swift; sourceTree = "<group>"; };
+		E3E808AC27B68ABC00C7DEAF /* DataHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DataHandler.swift; path = "../New Group/DataHandler.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +99,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E31CF33927BA70D70016A386 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				E31CF33C27BA74170016A386 /* String+Extensions.swift */,
+				E37218F127B6B11E002355EB /* UIImageView+Extensions.swift */,
+				E31CF33727BA70C30016A386 /* Date+Extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		E31CF33E27BA75E30016A386 /* APIService */ = {
+			isa = PBXGroup;
+			children = (
+				E3E808AC27B68ABC00C7DEAF /* DataHandler.swift */,
+				E3E808A927B6881900C7DEAF /* APIURLS.swift */,
+			);
+			path = APIService;
+			sourceTree = "<group>";
+		};
 		E37218D827B6AB68002355EB /* Components */ = {
 			isa = PBXGroup;
 			children = (
@@ -162,6 +189,8 @@
 		E3E8088127B6654000C7DEAF /* TalentoMobile-PruebaTecnica */ = {
 			isa = PBXGroup;
 			children = (
+				E31CF33E27BA75E30016A386 /* APIService */,
+				E31CF33927BA70D70016A386 /* Extensions */,
 				E37218D827B6AB68002355EB /* Components */,
 				E3E808AB27B68AAF00C7DEAF /* Utils */,
 				E3E808A227B6813000C7DEAF /* Detail */,
@@ -173,6 +202,7 @@
 				E3E8088D27B6655500C7DEAF /* LaunchScreen.storyboard */,
 				E3E8089027B6655500C7DEAF /* Info.plist */,
 				E3E808A527B6816200C7DEAF /* MainCoordinator.swift */,
+				E31CF33A27BA736E0016A386 /* Localizable.strings */,
 			);
 			path = "TalentoMobile-PruebaTecnica";
 			sourceTree = "<group>";
@@ -209,11 +239,9 @@
 		E3E808AB27B68AAF00C7DEAF /* Utils */ = {
 			isa = PBXGroup;
 			children = (
-				E3E808A927B6881900C7DEAF /* APIURLS.swift */,
-				E3E808AC27B68ABC00C7DEAF /* DataHandler.swift */,
-				E37218F127B6B11E002355EB /* UIImageView+Extensions.swift */,
 				E37218FB27B914AE002355EB /* SpinnerViewController.swift */,
 				E37218FD27B917A9002355EB /* ConfigurableCells.swift */,
+				E31CF33527BA70AC0016A386 /* CustomError.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -285,6 +313,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3E8088F27B6655500C7DEAF /* LaunchScreen.storyboard in Resources */,
+				E31CF33B27BA736E0016A386 /* Localizable.strings in Resources */,
 				E3E8088C27B6655500C7DEAF /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,9 +330,11 @@
 				E37218F227B6B11E002355EB /* UIImageView+Extensions.swift in Sources */,
 				E3E8088727B6654000C7DEAF /* ListViewController.swift in Sources */,
 				E37218FC27B914AE002355EB /* SpinnerViewController.swift in Sources */,
+				E31CF33627BA70AC0016A386 /* CustomError.swift in Sources */,
 				E3E808A627B6816200C7DEAF /* MainCoordinator.swift in Sources */,
 				E37218E427B6AF25002355EB /* Stories.swift in Sources */,
 				E37218E627B6AF48002355EB /* StoriesItem.swift in Sources */,
+				E31CF33827BA70C30016A386 /* Date+Extensions.swift in Sources */,
 				E3E8088327B6654000C7DEAF /* AppDelegate.swift in Sources */,
 				E372190027B91EB6002355EB /* DetailViewController.swift in Sources */,
 				E37218DE27B6AEF2002355EB /* Character.swift in Sources */,
@@ -325,6 +356,7 @@
 				E37218FA27B7C624002355EB /* CharacterModel.swift in Sources */,
 				E3E8089827B67BCB00C7DEAF /* CharacterDataWrapper.swift in Sources */,
 				E37218E827B6AF5B002355EB /* ItemType.swift in Sources */,
+				E31CF33D27BA74170016A386 /* String+Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

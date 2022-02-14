@@ -9,7 +9,7 @@ import Foundation
 import Alamofire
 
 class ListDataHandler: DataHandler {
-    func getList(completion: @escaping (Result<CharacterDataContainer?, AFError>) -> Void) {
+    func getList(completion: @escaping (Result<CharacterDataContainer?, CustomError>) -> Void) {
         let dataHandler = DataHandler()
         
         dataHandler.load(path: APIURLS.list.rawValue) { char in

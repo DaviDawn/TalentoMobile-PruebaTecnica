@@ -20,6 +20,10 @@
 		<data>
 		HgXdQmfezdZ+wFM23TvNPi4+NhQ=
 		</data>
+		<key>Localizable.strings</key>
+		<data>
+		iO/EWPADRrzFRfsch0l9hqK0qts=
+		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
@@ -46,6 +50,13 @@
 			<key>hash2</key>
 			<data>
 			cWq7q+iQcmpSoaFGecnyPdKFEPFwRD3slgUmxFADkVs=
+			</data>
+		</dict>
+		<key>Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zkuReSKmbqkdRM8I7bMm1Y5fR6i0cA7XM4JCw8ILcAM=
 			</data>
 		</dict>
 	</dict>

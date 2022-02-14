@@ -53,7 +53,7 @@ class ListViewModel: ListViewModelDelegate {
                 self.characterDataContainer = characters
                 self.output?.updateView()
             case .failure:
-                print("Error")
+                self.coordinator?.showError()
             }
         }
     }

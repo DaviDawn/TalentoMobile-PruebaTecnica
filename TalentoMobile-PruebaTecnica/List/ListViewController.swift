@@ -28,9 +28,7 @@ class ListViewController: UIViewController {
         table.isUserInteractionEnabled = true
         table.delegate = self
         table.dataSource = self
-        
         table.register(CharacterCellView.self, forCellReuseIdentifier: CharacterCellView.defaultIdentifier)
-        
         return table
     }()
     
