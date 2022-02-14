@@ -1,4 +1,0 @@
-module AlamofireImage {
-header "AlamofireImage-Swift.h"
-export *
-}

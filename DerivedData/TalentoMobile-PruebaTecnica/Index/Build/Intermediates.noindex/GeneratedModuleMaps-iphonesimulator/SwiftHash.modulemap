@@ -1,4 +1,0 @@
-module SwiftHash {
-header "SwiftHash-Swift.h"
-export *
-}
